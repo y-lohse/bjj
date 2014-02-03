@@ -3,3 +3,38 @@ $body-copy-font: 'Alegreya Sans';
 
 @import "compass";
 @import "qb/all";
+
+.wrapper{
+	max-width:600px;
+	margin:0 auto;
+	padding: 40px 20px;
+	position:relative;
+	
+	@include width-below(800px){
+		max-width:400px;
+	}
+}
+
+.main-nav{
+	position:absolute;
+	right:100%;
+	text-align:right;
+	padding-right:20px;
+	
+	@include width-below(600px){
+		position:static;
+		text-align:left;
+	}
+}
+.main-nav .menu{
+	list-style:none;
+}
+
+.posts{
+	list-style:none;
+}
+
+.post-title a{
+	color:inherit;
+	text-decoration:none;
+}

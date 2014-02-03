@@ -2,21 +2,21 @@
 layout: default
 title: BJJ
 ---
-<ol>
+<ol class="posts">
 	{% for post in site.posts %}
-	<li>
-		<h1>
+	<li class="post">
+		<h1 class="post-title">
 			<a href="{{ post.url }}">
 				{{ post.title }}
 			</a>
 		</h1>
-		<span>
+		<span class="post-date">
 			{{ post.date | date: "%B %d, %Y" }}
 		</span>
-		<p>
+		<p class="post-excerpt">
 			{{ post.excerpt }}
 		</p>
-		<a href="{{ post.url }}">
+		<a href="{{ post.url }}" class="post-continue">
 			Continue…
 		</a>
 	</li>
