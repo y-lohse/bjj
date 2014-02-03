@@ -1,8 +1,18 @@
-@import "http://fonts.googleapis.com/css?family=Roboto|Alegreya+Sans:400,400italic,500,700,300&subset=latin,latin-ext";
-$body-copy-font: 'Alegreya Sans';
+@import "http://fonts.googleapis.com/css?family=Merriweather+Sans|Cousine:400,700,400italic&subset=latin,latin-ext";
+$body-copy-font: 'Cousine';
 
 @import "compass";
 @import "qb/all";
+
+%discrete-link{
+	color:inherit;
+	text-decoration:none;
+}
+
+p{
+	font-size:18px;
+	line-height:1.35;
+}
 
 .wrapper{
 	max-width:600px;
@@ -20,6 +30,8 @@ $body-copy-font: 'Alegreya Sans';
 	right:100%;
 	text-align:right;
 	padding-right:20px;
+	font-family:'Merriweather Sans';
+	font-size:20px;
 	
 	@include width-below(600px){
 		position:static;
@@ -29,12 +41,33 @@ $body-copy-font: 'Alegreya Sans';
 .main-nav .menu{
 	list-style:none;
 }
+.main-nav a{
+	display:block;
+	@extend %discrete-link;
+	margin-bottom:10px;
+}
 
 .posts{
 	list-style:none;
 }
+.posts .post{
+	margin-bottom:50px;
+}
 
+.post-title{
+	font-size:24px;
+}
 .post-title a{
-	color:inherit;
-	text-decoration:none;
+	@extend %discrete-link;
+}
+.post-date{
+	margin-bottom:15px;
+	font-size:16px;
+	color:lighten(#333,10);
+}
+.post-continue{
+	display:block;
+	margin-top:15px;
+	font-size:18px;
+	@extend %discrete-link;
 }
