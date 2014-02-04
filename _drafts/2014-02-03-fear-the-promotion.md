@@ -1,3 +1,7 @@
+---
+layout: blog
+title: Fear The Promotion
+---
 Soooo… last night, one of my friends got promoted to 4th stripe white belt and the instructors said there would be more promotions in the upcoming days. I currently stand at 3 stripes but despite having a pretty bad night yesterday I had the upperhand against the friend who got promoted, as I usually do when we roll together. This and other hints that were dropped here and there during the last weeks make me think that I *may* get promoted to blue belt.
 
 After a huge plateau from april to october I felt very well these last months and my game became much better in many areas. Until yesterday night, i felt totally ready for my blue belt — in my mind there was no doubt that during the next promotion period, I'd get it. But after yesterday night, I don't know. Overall it wasn't awfull, I did sme good things — but I also got my guard smashed a couple of times, spent 3 hellish minutes defending against chokes from my instructors mount and got into a couple of ankle locks (again!).
