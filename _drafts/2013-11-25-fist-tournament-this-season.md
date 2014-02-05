@@ -1,3 +1,7 @@
+---
+layout: blog
+title: First tournament of the season
+---
 2 entrainements avant, vraiment une scéance de merde. j’ai tout foiré contre les gradés et contre les blanches. grosse perte de confiance.
 dernier entrainement, combats à thème. j’ai réussi à me sortir de toutes les positions merdiques et généralement à venir en prendre une dominante. j’arrivais ausi à maintenir mes avantages. mieux pour la confiance.
 # premier

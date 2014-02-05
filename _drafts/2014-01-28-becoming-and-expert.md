@@ -1,3 +1,7 @@
+---
+layout: blog
+title: Becoming an expert
+---
 ## 28/01 Becoming an expert
 Yesterday I was thinking about the need for more comentators in jiu jitsu, but bitching about it isn’t going to help. So when I came home I pulled up a video of a match and tried to do the commentating... and wow I sucked. I knew almost nothing about the fighters background, their usual game, I struggled to understand some of the refs actions. And at the end of the training yesterday, while chatting with my instructor, he named about 10 fighters that he saw at the european... and I had heard of maybe half of them.
 That means after almost 2 years of doing bjj, I still haven’t a clear understanding of the rules (that’s ridiculous, I compete and still can’t read a refs gestures) and I have a very loose knowledge of the greatest competitors.

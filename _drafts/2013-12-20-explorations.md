@@ -1,4 +1,7 @@
-# Explorations 20/12/13
+---
+layout: blog
+title: Explorations, December 2013
+---
 As I mentionned, I have been working on my open guard game for a couple of months now. I have a solid closed guard game, but during my first competitions I found that if I am unable to pull guard, I’m worthless. And better opponents don’t walk straight into your guard.
 Progress has been very slow, but at first i figured it was only due to me being still a white belt. Then that open guard is such a vast concept that it is necessarily hard to understand (which I still think is true). But after 6 month without much progress I decided to step it up, and it’s finaly paying off.
 I’m lucky that we have a purple belt at my academy who’s like me tall and rather lean, and he plays a great open guard. i’ve been sparring a lot with him... and by sparring I mean he’s been smashing my guard over and over again. He gets side control, wait until I start escaping then stands up and starts over again. It’s great.

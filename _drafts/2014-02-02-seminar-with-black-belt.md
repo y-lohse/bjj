@@ -1,3 +1,7 @@
+---
+layout: blog
+title: Black belt seminar
+---
 This week-end, I went to my old academy in Troyes to attend a seminar. It was taught by the David Pierre-Louis, the professor they are affiliated to. He's a black belt under De La Riva, one of the most successfull french grapplers but above all a great teacher. I remember all of his lessons very well and he might be the reason why I feel so comfortable in the DeLaRiva guard.
 
 As he has already done a couple of times, he walked us through a whole series of attacks and counters. It's a bit unfortunate that they started from close guard as it's a position that I find myself less in these days, but anyway. We also did some very simple, high percentage stand up work. I still have to process a number of things he said and showed; typically I still find myelf watching the videos of the first semianr he did with us and learning stuff.

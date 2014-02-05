@@ -1,4 +1,8 @@
-Aside from the seminar this week-end, I got to roll with a couple of new people which is always interresting. I was mostly looking forward to rolling with the buddies from my old academy, but that unfortunetely didn't happen. The only one i could roll with is my friend David (not Pierre-Louis this time), in nogi. David is the one who introduced me to bjj; he trains about four 4 a week in two or three academies, one of them being an hour drive away. He used to be a notch ahead of me, and rightfully so — he has a lot more martial arts background than i do (almost anyone has), he had trained for 6 month before I started and was basically feeding himself on jiu jitsu videos. He litterally has 3 ipad screens full of bjj apps.
+---
+layout: blog
+title: BJJ week-end complement
+---
+Aside from the seminar this week-end, I got to roll with a couple of new people which is always interresting. I was mostly looking forward to rolling with the buddies from my old academy, but that unfortunetely didn't happen. The only one i could roll with is my friend David (not [Pierre-Louis](/) this time), in nogi. David is the one who introduced me to bjj; he trains about four 4 a week in two or three academies, one of them being an hour drive away. He used to be a notch ahead of me, and rightfully so — he has a lot more martial arts background than i do (almost anyone has), he had trained for 6 month before I started and was basically feeding himself on jiu jitsu videos. He litterally has 3 ipad screens full of bjj apps.
 
 So i was quite happy with my progression when I was abble to play around with him without feeling any danger. He explained afterwards that the guy before me had tried to neckcrank him, so he was all tensed up and got into rollercoaster mode ("keep your legs and arms inside during the ride"). i'm pretty sure he would have given me a harder time under better conditions, but it was cool anyway.
 

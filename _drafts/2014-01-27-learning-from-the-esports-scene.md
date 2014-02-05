@@ -1,3 +1,7 @@
+---
+layout: blog
+title: Let's learn from the esports scene
+---
 ## 27/01 Let’s learn from the e-sports scene
 2 types de tournois: inscription payante, pas de publique, 40% de cashprize, le reste est gardé (pas homolgué)
 Tournoi homologué, joueurs invités (ou sur qualif). Payé par l’éditeur et les sponsors, streamé, entré payante pour les spectateurs. Avec cashprize évidement.

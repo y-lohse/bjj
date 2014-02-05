@@ -1,4 +1,7 @@
-# Shifting perspective
+---
+layout: blog
+title: Shifting perspective
+---
 On some levels, jiu jitsu is about solving problems — something I’m pretty good at it since it’s my job. Programing and designing are 2 disciplines that are mostly about solving problems — how do I make the computer calculate a Fibonacci sequence in an efficient way? How do I make sure the user understands that pressing this icon will make a menu appear?
 In both these disciplines, a great way to solve a problem is to shift perspectives. Considering a problem in a new light usualy helps figure out a way to solve it, so I’m trying to do the same thing in bjj, but I’m still too much of a newbie to do it properly. I’m trying to figure out open guard, so my thoughts go somewhat like this.
 From the open guard, I want to land a sweep or a submission. There are 2 problems: I don’t have any precise sweep in mind and my opponent is trying to pass my guard.

@@ -1,3 +1,7 @@
+---
+layout: blog
+title: Thoughts on learning BJJ
+---
 In my experience, there are 3 ways you can teach bjj to someone, and i believe one of them is highly effective while the others might not be so great.
 The first one is bottom line stupid: Teach techniques individually, without connecting them together. This is purely based on memory, the student who retains the most information wins. It’s the equivalent of learning your times table by heart; I mean, sure, you *can* do it — but if you can’t remember 5x8 when you need it you’re screwed. The smarter option is to learn the principle of multiplication, and boom, you’re done. At first you may be a little slow to spit out the answer, but you become faster as you grow used to applying the principle.
 I feel it’s the same for bjj. At some point (apparently around purple belt) knowing techniques is not enough, you need to learn how to chain them together to improve. You need to connect all the dots.

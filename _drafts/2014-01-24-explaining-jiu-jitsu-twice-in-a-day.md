@@ -1,3 +1,7 @@
+---
+layout: blog
+title: Explaining BJJ twice in the same day
+---
 ### 24/01 explaining jiu jitsu twice in a day
 I already had to explain jiu jitsu a couple of times, I usually go with the Don’t Wear your gi to the bar technique, so basically:
 - no striking but chokes and locks

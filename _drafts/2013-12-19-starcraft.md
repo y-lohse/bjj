@@ -1,4 +1,7 @@
-# Starcraft
+---
+layout: blog
+title: Starcraft & BJJ
+---
 We jiu jitsueros like to compare our art to chess, but most of my friends are more familiar with video games than thousnad year old board games. So when I need to describe bjj, I usually start with “it’s pretty much like starcreft”. But I’ve never looked into it much deeper than that, so here we go.
 What is the game about?
 In SC, 2 players fight each other until one of them is either destroyed or gives up. The same can be said about bjj, but admitedely also of most combat sports. The main difference is obviously that we are using our bodies to fight in bjj, whereas in SC players are using a virtual civilization.
