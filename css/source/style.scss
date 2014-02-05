@@ -1,5 +1,6 @@
 @import "http://fonts.googleapis.com/css?family=Merriweather+Sans|Cousine:400,700,400italic&subset=latin,latin-ext";
 $body-copy-font: 'Cousine';
+$link-color: #4545ce;
 
 @import "compass";
 @import "qb/all";
@@ -14,12 +15,12 @@ p{
 	line-height:1.35;
 }
 p a{
-	color:#4545ce;
+	color:$link-color;
 	text-decoration:none;
 	
 	&:hover,
 	&:focus{
-		color:darken(#4545ce,10);
+		color:darken($link-color,10);
 		text-decoration:underline;
 	}
 }
@@ -82,6 +83,11 @@ p a{
 	margin-top:15px;
 	font-size:18px;
 	@extend %discrete-link;
+	
+	&:hover{
+		color:$link-color;
+		text-decoration:underline;
+	}
 }
 .post-content p:first-child{
 	&:first-letter{
