@@ -5,17 +5,19 @@ title: BJJ
 <ol class="posts">
 	{% for post in site.posts %}
 	<li class="post">
-		<h1 class="post-title">
-			<a href="{{ post.url }}">
-				{{ post.title }}
-			</a>
-		</h1>
-		<div class="post-date">
-			{{ post.date | date: "%B %d, %Y" }}
-		</div>
-		<p class="post-excerpt">
+		<article>
+			<header class="post-header">
+				<h1 class="post-title">
+					<a href="{{ post.url }}">
+						{{ post.title }}
+					</a>
+				</h1>
+				<div class="post-date">
+					{{ post.date | date: "%B %d, %Y" }}
+				</div>
+			</header>
 			{{ post.excerpt }}
-		</p>
+		</article>
 		<a href="{{ post.url }}" class="post-continue">
 			Continue…
 		</a>

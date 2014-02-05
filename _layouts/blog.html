@@ -2,10 +2,17 @@
 {% include menu.html %}
 <section class="content">
 	<article class="post single">
-		<h1 class="post-title">
-			{{ page.title }}
-		</h1>
-		{{ content }}
+		<header class="post-header">
+			<h1 class="post-title">
+				{{ page.title }}
+			</h1>
+			<div class="post-date">
+				{{ page.date | date: "%B %d, %Y" }}
+			</div>
+		</header>
+		<div class="post-content">
+			{{ content }}
+		</div>
 	</article>
 </section>
 {% include foot.html %}

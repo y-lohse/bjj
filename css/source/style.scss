@@ -13,6 +13,16 @@ p{
 	font-size:18px;
 	line-height:1.35;
 }
+p a{
+	color:#4545ce;
+	text-decoration:none;
+	
+	&:hover,
+	&:focus{
+		color:darken(#4545ce,10);
+		text-decoration:underline;
+	}
+}
 
 .wrapper{
 	max-width:600px;
@@ -54,6 +64,9 @@ p{
 	margin-bottom:50px;
 }
 
+.post-header{
+	margin-bottom:15px;
+}
 .post-title{
 	font-size:24px;
 }
@@ -61,7 +74,6 @@ p{
 	@extend %discrete-link;
 }
 .post-date{
-	margin-bottom:15px;
 	font-size:16px;
 	color:lighten(#333,10);
 }
@@ -70,4 +82,17 @@ p{
 	margin-top:15px;
 	font-size:18px;
 	@extend %discrete-link;
+}
+.post-content p:first-child{
+	&:first-letter{
+		float:left;
+		font-size:60px;
+		position:relative;
+		top:15px;
+		margin-right:5px;
+	}
+}
+.post-content p + p{
+	margin-top: 1em;
+	text-indent:2em;
 }
