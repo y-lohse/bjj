@@ -2,37 +2,44 @@
 layout: blog
 title: First tournament of the season
 ---
-2 entrainements avant, vraiment une scéance de merde. j’ai tout foiré contre les gradés et contre les blanches. grosse perte de confiance.
+Yesterday I competed in a major minor tournament. Minor because th level wasn’t going to be very high — major because it was my first this season and my first under the flag of my new academy. There are some key moments I need to remember, so I’ll write them down.
 
-dernier entrainement, combats à thème. j’ai réussi à me sortir de toutes les positions merdiques et généralement à venir en prendre une dominante. j’arrivais ausi à maintenir mes avantages. mieux pour la confiance.
+# Pre tournament
+Two trainings before the tournament I totally sucked and lost against pretty much everyone and lost my confidence. And then during the last training we did positional sparring and I did great, so I came in on a confidence rollercoaster.
 
-# premier
+# First fight
+Nobody showed up in my division so I started in the open class. My opponent is called and I know him because he just won his category, smashing 3 of my partners along the way. I knew I’d better jumpstart.
 
-le mec venait de gagner sa catégorie après avoir sortit 3 de nos combatants et pas le plus mauvais. Trop petit pour que je puisse vraiment sauter dans la garde, pied sur hanche pour l’amener au sol, et j’ai pu refermer après. j’avais peur qu’il m’ouvre en 2, je serais ddes grips tres tres forts, beaucoup trop fort, j’en faisais rien. Le mec se pose en arrière plusieurs fois, j’ammorce des hip bumps, il bloque les premiers mais se repositionne mal. Un des bumps finis par passer, je choppe mes points mais il bouge beaucoup. Ensuite je perd le fil; je sais que j’ai rerpsi al monté une ou 2 fois au moins, que je mene large aux points. Je finis par avoir une occasion de triangle, je serre, il tape pas. Je sens que le triangle est bien mis mais j’ai trop ponté. Je le garde un peu, ca me fatigue enormement. Il finis par s’en sortir. Il reste 2 minutes et je suis cramé. Je me dis que je suis cramé. Quelqu’un crie a mon adversaire que je suis cramé, ca me donne un peu de giaque. Je change d’approche parce que je sens que je peux pas enchainer comme ca, j’essaye de maintenir mes positions. l bouge beaucoup trop, il arrive à sortir il prend quelques points mais pas assez. moi j’espere juste que ca passe. j’écoute ce que les autres disent parce que je regarde plu le combat. Il amene une clé de bras que j’ai pas vu arriver. Elle y est, je sens mon bras tendu, je sens la pression sur mon coude, il le tiens bien, je pourrais plus sortir. j’entend l’arbitre crier stop, et jem e dis tant mieux parce que je voulais pas tapper. je pense qu’il a arrété le combat pour pas que mon bras lache, mais quand je me releve je vois que c’est le temps qu ic’est écoulé. un vrai suavé par le gong. stratégie de premier match à revoir un peu. J’ai le voile blanc, je suis claqué. J’ai mal au bras, mais je peux combattre.
+Well the adrenaline jump-started me, I was holding onto my grips as if I’d lose points if I let go. I get a sweep, mount him, get reversed, rince, repeat. I get him in a triangle, he slips out.
 
-# 2eme
+After twenty-three hours of fighting the adrenaline stops and I’m exhausted. I tell myself I’m exhausted. Someone tells my opponent I’m exhausted. Fuck that guy :)
 
-Je me repose, je reprend mon souffle. Je discute un peu avec marie laure, on avait roulé ensemble juste avant nos matchs pour s’achauffer, elle a gagné le sien sur clé de bras.
-L’adversaire est un petit jeune, 60 kilos et ptet 20 ans. Jme souviens plus trop du combat, je crois que je prend une monte a un moment et que j’essaye de l’épuiser un peu, mais la plupart du temps je suis dans sa garde. Il ets du meme club qu’avant, les mecs lui disent de se méfier de mes jambes mais ca sers à rien, il fini par me donner un triangle. Je ressere, je sens qu’il est vraiment mal mais il ne tappe pas. j’ajuste un peu le bras mais ca n’aide pas. Il tombe sur les fesses, je suis, quelques secondes apres il ferme les yeux. j’attend une seconde et je pense qu’il est nedormi, alors je relache. au moment ou je relache il rouvre les yeux. J’arrive tout juste à reprendre mon triangle. A la réflexion il perdait probablement vraiment connaissance. Je continue à lutter pour le triangle, et il fini par tapper. En me relevant je me rend compte que ma cheville qui soutenait le triangle est completement morte.
+I went all defensive, trying to maintain my positions which just fails horribly. He reverses me. Passes me. Sideguards me. I know there’s no way I can loose on points, I just need this fucking match to end already. I won, it’s over, let’s go home.
 
-# 3eme
+He armbars me. I didn’t even see it coming. For some reason I thought it was smart to resist the armbar, so I try to flex my arm for 30 seconds or so, and then I feel the refs tap on my back saying it’s over. I sure am glad he stopped me because I might have broken my arm out of stubborness.
 
-la je suis mort, et j’ai plus envie de combattre. Je vais acheter des produits pour me remettre un peu en état, mais j’ai les mains et les bras tétanisés, le bras gauche sensible, la cheville droite douloureuse. Jme demande ce que je fous la, que je serais mieux chez moi, que j’adore le jjb mais la c’est trop et c’est pas tres drole. et les autres autour ont l’air d’aller bien mais moi j’ai plus l’envie. jme sens comme une merde, jme dit que je peux bien perdre parce que j’ai déja accompli pas mal.
+Then I stood up and saw that I actually won on time. Also, as I later saw in the video:
+1. I got my dump after 4 minutes, not 23 hours
+2. the triangle wasn’t even nearly locked in
+3. i resisted the armbar for exactly 1 second before the match ended
 
-Je discute un peu, je prend mes compléments, je vais voir jan et je lui dit que j’ai plus d’envie mais il répond juste que c’est normal.
+Funny how my memory tricks me.
 
-Le comabt commence, un mec d’une caté au dessus. je saute dans la garde et livre le pire combat de ma vie, il ne se passe rien. l’arbitre nous dit de travailler plusieurs fois mais j’ai pas la force de tenter grand chose. Il a un bras qui me colle les hanches au sol, et ca me demanderais trop d’efforts pour le dégager. Il réussi a ouvrir ma garde plusieurs fois mais a chaque fois je le récupere immédiatement. Quand il lache mes hanches je tente des renversements. J’arrive a le charger 2-3 fois, mais pas à l’envoyer; Une des tentatives passe pas loin et me fais gagner un avantage, et je gagne la dessus. c’était la demi finale.
+# Second fight
+My arm did hurt a little but I was ready to go for another fight. The second opponent was quite lighter than I am and not too technical. I got him into a triangle early on  and I started pressing. I saw him going out of breath and slowly closing his eyes. I started to panic and thought I had put himout so I let go, and of course he regained immediately resumed fighting. I locked the triangle back in and this time proceeded to dismantle my own ankle by keeping it closed. It did work though, he tapped.
+After that I had a mental meltdown. I felt like shit, I was wondering why the fuck I was even going through this stress and exhaustion, that I’d be better off on my couch and that fuck it, I already won twice, I can loose now and it will be alright.
 
-# 4eme
+# 3rd fight
+Most other folks from my team seemed prettyok mentally. I chatted with some of them to try and cheer me up, I even told one of my friends how I felt but he told me it was normal. What a comfort.
+So I go into the third fight, my arms already numb. The guy is heavier than I am but I pull guard… and that’s it. We litterally kept it there for 5 minutes, blocking each other. Most. Boring. Fight.
+I mean I even apologized to him and his teammates at the end. I won 1 advantage to zero. I’m still ashamed of that one.
 
-Longue pause apres le 3eme, j’avais un tour d’avance. L’autre demi finale est entre 2 mecs de mon club. Apres avoir récupéré, je me dis que maintenant j’ai qu’a perdre tranquillement, j’ai vraiment fait mes preuves. les autres sont a peu pres aussi bon que moi, mais moi j’ai éliminé des gros clients.
+# Open class finals
+At  that point I really felt like loosing would be a good idea. My opponent in the final is a teammate, where both good, I did the heavy work and got rid of the dangerous guys.
+But watching the other semi final and chilling to some music made me feel much better. I swore to myself I wouldn’t keep my guard closed, even if it meant loosing — at this point I just wanted to enjoy a good fight.
+I pulled guard, locked a triangle after a while but he got out. He started to pass but I managed to recover before he got any points. I started working from my guard, went for an omoplata but couldn’t lock it in. He posted up so I spinned around and locked in another triangle.
+I tried to tighten it but it was loose enough for him to keep going. I looked for opportunities for a transition to an armbar but they weren’t there, so I kept holding onto the triangle. He wouldn’t tap but I ended winning with my advantages.
 
-Et puis au moment de leur combat, je me pose avec des écouteurs et je me  remet un peu de musique. Et comme ca dure longtemps, je reste juste posé la et la musique me redonne envie. ca seras contre un mec de mon club, je suis techniquement meilleur, il est plus puissant, mais il est cool, ca fera un bon combat, aucun de nous n’aura démérité. Je me jure de ne pas garder la garde fermée comme un con et de tenter, quitte a perdre.
-
-Début du match, je prend la garde, mais je laisse un peu de jeu. Je prend un premier triangle, il s’échappe, me met sur le coté mais j’arrive a revenir avant qu’il marque de points. Je me retrouve a un moment a pouvoir lancer une omoplata, je la met mais mes hanches ne sont pas suffisament bien placés, il se releve. Je pivote et son bras est bas alors je prend un triangle. Il est bien mis mais il résiste. Je tente une ou 2 fois de passer a une clé de bras mais sans succès, donc je garde le triangle. Il est bien mais, xavier a du mal a respirer mais il tiens le coup. Je tiens le triangle au moins une minute complete avant que le match ne se termine, je gagne avec mes 3 avantages.
-
-# 5eme match
-
-Cette fois plus rien a prouver, j’y vais beaucoup plus relax. Pas a l’aise en no-gi mais tant pis, c’est le meme adversaire, je viens de le battre, meme si de peu. C’est un des derniers matchs, beaucoup de monde nous regarde.
-
-Il prend des meilleures saisies mais j’attend pas qu’il s’en serve, je saute en le prenant dans ma garde. Cette fois il m’ouvre assez vite, avant que je puisse attaquer, et il passe. Je ne lui laisse pas le coté mais il arrive en nord sud et prend surement des points. Mes hanches ne sont pas fixées alors que balance mes jambes en arriere pour récupérer une garde. Je prend un crochet, il arrive a l’enlever mais ne bloque toujours pas mes hanches. Apres plusieurs tentatives je fini par mettre un crochet profond, et plus surprenament le second aussi. Je me retrouve dans son dos, il se débat mais j’arrive a prendre les points. A partir de la, je commence à travailler son cou mais je sais rien faire a part la mata leone qui ne passe pas. Il me saisi le bras de temps en temps mais j’arrive a me libérer. Il tourn, j’ai du prendre une monte, et il fini par me remettre dos au sol, dans ma garde. J’ai de nouveau une opportunitée pour une omoplate, mes hanches sont encore mal placés, je le vois, j’essaye de corriger mais il est trop puissant. Il se releve et comme avant je pivote et j’attaque le triangle. Cette fois je prend soin d’ajuster le bras, il ets de nouveau mal mais ca ne suffis pas. Apres peut etre une minute de triangle, Jan me crie de venir entourer mes genoux avec mes bras pour tout compacter. Je le fais,et je sens aussitot la pression augmenter pour lui. Quelques secondes passent et il tape.
+# No-gi finals
+I went up again the same teammate in the no-gi finals (there were no other competitors in our no-gi class) but this time relaxed as fuck. I pulled guard, he passed and got into north-south. I managed to take his back from there, fiddled around with a rear naked choke until he reversed me.
+And then the exact same sequence happened again: I went for an omoplata, he stuffed it by posting up, I spinned and triangled... only this time I made him tap. It was almost the last fight of the day, so there was quite a crowd watching as my arm went up for my last win of the day.
