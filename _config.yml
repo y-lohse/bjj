@@ -1,4 +1,5 @@
 url: /
+img: /img/
 exclude: ['css/source', 'serve.bat']
 #paginate_path: /blog/page:num
 #paginate: 8
