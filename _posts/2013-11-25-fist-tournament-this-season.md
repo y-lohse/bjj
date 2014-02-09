@@ -18,7 +18,7 @@ I went all defensive, trying to maintain my positions which just fails horribly.
 
 He armbars me. I didn’t even see it coming. For some reason I thought it was smart to resist the armbar, so I try to flex my arm for 30 seconds or so, and then I feel the refs tap on my back saying it’s over. I sure am glad he stopped me because I might have broken my arm out of stubborness.
 
-![Working in the open guard](/img/open-guard-est.png)
+![Working in the open guard]({{ site.img }}open-guard-est.png)
 
 Then I stood up and saw that I actually won on time. Also, as I later saw in the video:
 1. I got my dump after 4 minutes, not 23 hours
