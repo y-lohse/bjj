@@ -105,11 +105,15 @@ p a{
 .post-content ul + p,
 .post-content ol + p{
 	margin-top: 1em;
-	text-indent:2em;
 }
 .post-content ul,
 .post-content ol{
 	margin-top: .5em;
 	margin-bottom: 1em;
 	list-style-position:outside;
+}
+.post-content h1{
+	margin-top:35px;
+	margin-bottom: 7px;
+	font-size:26px;
 }
