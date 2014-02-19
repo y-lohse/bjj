@@ -2,7 +2,7 @@
 layout: blog
 title: First tournament of the season
 ---
-Yesterday I competed in a major minor tournament. Minor because th level wasn’t going to be very high — major because it was my first this season and my first under the flag of my new academy. There are some key moments I need to remember, so I’ll write them down.
+Yesterday I competed in a major minor tournament. Minor because the level wasn’t going to be very high — major because it was my first this season and my first under the flag of my new academy. There are some key moments I need to remember, so I’ll write them down.
 
 # Pre tournament
 Two trainings before the tournament I totally sucked and lost against pretty much everyone and lost my confidence. And then during the last training we did positional sparring and I did great, so I came in on a confidence rollercoaster.
