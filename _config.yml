@@ -1,4 +1,4 @@
-url: /bjj/
+url: /bjj
 img: /bjj/img/
 exclude: ['css/source', 'serve.bat']
 #paginate_path: /blog/page:num
