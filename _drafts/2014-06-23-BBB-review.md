@@ -6,7 +6,7 @@ I purchased and read [The Black Belt Blueprint](http://jjbgear.com/collections/b
 
 > The Black Belt Blueprint is a new framework that will help you improve your Brazilian Jiu Jitsu as quickly and efficiently as possible. […]  Experience the freedom and flexibility of becoming your own best teacher, without having to constantly refer to instructors or YouTube videos.
 
-I'm really not into memorizing every single technique and detail I encounter, so alternative forms of learning are something that I really take interest in. The book seels for 40$ as a digital edition, I believe is there no paperback edition available.
+I'm really not into memorizing every single technique and detail I encounter, so alternative forms of learning are something that I really take interest in. The book seels for 40$ as a digital edition, I believe there is no paperback edition available.
 
 ## Not what it says on the cover
 
@@ -16,9 +16,9 @@ There are other definitions out there but this is the one I'm the msot familiar 
 
 ## A book of splitted intent
 
-The first couple of chapters are the same than in every jiu jitsu book: history, position, belts… Stuff you probably have read before. Certainly not what i had paid for.
+The first couple of chapters are the same than in every jiu jitsu book: history, position, belts… Stuff you probably have read before. Certainly not what I had hoped for.
 
-However the next chapters are different… and really good. Instead of demonstrating techniques, Gregoriades highlights a bunch of key concepts such as creating angles to attack and defend, keeping your opponent on the back, and more. This was the meat of the book for me and applying those concepts made immediate, positive differences in my game.
+However the next chapters are different… and really good. Instead of explaining techniques, Gregoriades highlights a bunch of key concepts such as creating angles to attack and defend, keeping your opponent on the back, and more. This was the meat of the book for me and applying those concepts made immediate, positive differences in my game.
 
 But that core is 25 pages (out of 170). The ending chapters contain some usefull advices but again mostly things that you can read (and have read) somewhere else. Usually for free.
 
@@ -26,4 +26,4 @@ But that core is 25 pages (out of 170). The ending chapters contain some usefull
 
 Reading? yes. Buying for 40$? No.
 
-I understand it has been a lot of work, but 40$ for a digital book where 60% of the content is made of things you already elsewhere is too much. If you can, get your hands on the concept part which is really good and dodge the rest.
+I understand it has been a lot of work, but 40$ for a digital book where 60% of the content is made of things you already read elsewhere is too much. If you can, get your hands on the concepts part which is really good and dodge the rest.

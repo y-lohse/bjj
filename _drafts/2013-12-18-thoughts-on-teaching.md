@@ -45,3 +45,6 @@ This way has several major advantages:
 Now your success becomes merely a factor of technical precision — something you acquire over time. You may also get an edge if you find a new creative option within that situation — and since you understand it as a whole and not as a set of individual techniques, this doesn’t actually require to be a genius.
 #### Don’t skip steps (probably?)
 I suppose it’s still necessary to first learn dots and paths - focusing on maps when you still struggle with technical execution will probably set you back more than anything.
+
+
+Like learning at school.
