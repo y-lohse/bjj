@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Gi Review: VHTS G2
+title: Gi Review VHTS G2
 ---
 **Disclaimer**: I'm really not a gi expert. I only tried a handfull of them (albeit you could say I tried both the top and the bottom of the ladder) and the only reason I know the differences between different materials is because I looked them up before writting this review. I do know a thing or two about design. Also, I paid for the gi myself and no on asked me to write this.
 

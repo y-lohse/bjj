@@ -117,3 +117,14 @@ p a{
 	margin-bottom: 7px;
 	font-size:26px;
 }
+.post-content blockquote{
+	margin: 20px 0;
+	padding-left: 10px;
+	border-left: 2px solid grey;
+	
+	& p:first-child:first-letter{
+		font-size: inherit;
+		float: none;
+		margin: 0;
+	}
+}

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Gi Review: Gameness Elite
+title: Gi Review Gameness Elite
 ---
 The Gameness Elite is my first real BJJ gi and was given to me — yep, generous friends. Before that I was wearing a 30€ judo kimono, so I kinda tried the worst and what is apparently among the bests.
 
