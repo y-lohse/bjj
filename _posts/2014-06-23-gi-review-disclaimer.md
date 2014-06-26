@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Gi Review VHTS G2
+title: Gi review disclaimer
 ---
 I’ll by reviewing some gis soon and need a generic disclaimer I can link to, so here it is.
 

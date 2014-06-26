@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: The Black Belt Blueprint
+categories: reviews
 ---
 I purchased and read [The Black Belt Blueprint](http://jjbgear.com/collections/books/products/the-black-belt-blueprint) by Nicolas Gregoriades about a month ago and thought I might as well write a review. I heard of it through Kit Dale's facebook page and the description seemed attractive enough:
 

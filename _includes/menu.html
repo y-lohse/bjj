@@ -5,12 +5,19 @@
 				Blog
 			</a>
 		</li>
-<!--
 		<li>
-			<a href="">
+			<a href="{{ site.url }}/about.html">
 				About
 			</a>
 		</li>
+<!--
+		{% for category in site.categories %}
+		<li>
+			<a href="{{ site.url }}/categories/{{ category[0] }}.html">
+				{{ category[0] }}
+			</a>
+		</li>
+		{% endfor %}
 -->
 	</ul>
 </nav>

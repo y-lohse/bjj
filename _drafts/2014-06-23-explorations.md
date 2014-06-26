@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Explorations, June 2014
+categories: explorations
 ---
 # Introducing Valentin
 
