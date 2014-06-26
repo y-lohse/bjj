@@ -120,7 +120,20 @@ p a{
 .post-content blockquote{
 	margin: 20px 0;
 	padding-left: 10px;
-	border-left: 2px solid grey;
+	border-left: 2px solid #8a48d6;
+	position: relative;
+	
+	&:before{
+		content: '“';
+		position: absolute;
+		top: 0;
+		right: 100%;
+		font-size: 40px;
+		line-height: 1;
+		background: white;
+		font-family: georgia;
+		color: #8a48d6;
+	}
 	
 	& p:first-child:first-letter{
 		font-size: inherit;
