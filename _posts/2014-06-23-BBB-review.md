@@ -3,17 +3,17 @@ layout: blog
 title: The Black Belt Blueprint
 categories: reviews
 ---
-I purchased and read [The Black Belt Blueprint](http://jjbgear.com/collections/books/products/the-black-belt-blueprint) by Nicolas Gregoriades about a month ago and thought I might as well write a review. I heard of it through Kit Dale's facebook page and the description seemed attractive enough:
+I purchased and read [The Black Belt Blueprint](http://jjbgear.com/collections/books/products/the-black-belt-blueprint) by Nicolas Gregoriades about a month ago and thought I might as well write a review. I heard of it through Kit Dale’s facebook page and the description seemed attractive enough:
 
 > The Black Belt Blueprint is a new framework that will help you improve your Brazilian Jiu Jitsu as quickly and efficiently as possible. […]  Experience the freedom and flexibility of becoming your own best teacher, without having to constantly refer to instructors or YouTube videos.
 
-I'm really not into memorizing every single technique and detail I encounter, so alternative forms of learning are something that I really take interest in. The book seels for 40$ as a digital edition, I believe there is no paperback edition available.
+I’m really not into memorizing every single technique and detail I encounter, so alternative forms of learning are something that I really take interest in. The book sells for 40$ as a digital edition, I believe there is no paperback edition available.
 
 # Not what it says on the cover
 
 > In computer programming, a software framework is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software.
 
-There are other definitions out there but this is the one I'm the msot familiar with. And *nothing* in the book looks even remotely like a framework to me. if you're looking for different ways to train and learn, this is not the book for you. It even features a chapter about drilling, so coming from a Kit Dale recommendation I had to laugh a little.
+There are other definitions out there but this is the one I’m the most familiar with. And *nothing* in the book looks even remotely like a framework to me. if you’re looking for different ways to train and learn, this is not the book for you. It even features a chapter about drilling, so coming from a Kit Dale recommendation I had to laugh a little.
 
 # A book of splitted intent
 
@@ -27,4 +27,4 @@ But that core is 25 pages (out of 170). The ending chapters contain some usefull
 
 Reading? yes. Buying for 40$? No.
 
-I understand it has been a lot of work, but 40$ for a digital book where 60% of the content is made of things you already read elsewhere is too much. If you can, get your hands on the concepts part which is really good and dodge the rest.
+I understand it has been a lot of work, but 40$ for a digital book where most of the content is made of things you already read elsewhere is too much. If you can, get your hands on the concepts part which is really good and dodge the rest.
