@@ -1,6 +1,6 @@
 img: /bjj/img/
 exclude: ['css/source', 'serve.bat', 'Gruntfile.js', 'package.json', 'README.md', 'node_modules']
-baseurl: /bjj
+baseurl: /bjj/
 #paginate_path: 'page:num'
 #paginate: 8
 
