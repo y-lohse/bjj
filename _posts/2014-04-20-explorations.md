@@ -2,7 +2,7 @@
 layout: blog
 title: Explorations, February 2014
 ---
-I had almost no success with the [reverse omoplata](http://yannick-lohse.fr/bjj/2014/01/22/playing-top-game.html), partly because I had a hard time isolating the arm, partly because people just don’t turtle too much around here. I’ll save it for another time.
+I had almost no success with the [reverse omoplata]({{ site.baseurl }}2014/01/22/playing-top-game.html), partly because I had a hard time isolating the arm, partly because people just don’t turtle too much around here. I’ll save it for another time.
 
 On the other hand, [3-D Jiu-Jitsu](http://artechokemedia.com/3dbjj/0-0-introduction) has been a game changer.
 
