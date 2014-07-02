@@ -36,3 +36,6 @@ Salah once told me
 I can see the value in that, but i have to say I really like the team aspect. I may have written it before, but I see a lot of similarities between games i used to play online and jiu jitsu. Well, in those games, teams were always a great aspect. Sure, I'm part of the BJj community as a whole — but I also enjoy being part of team that is fighting the rest of the world.
 
 This is also why i'm not really against the whole *creonte* thing. It's only natural to feel betrayed when someone leaves your group without notice or good reason. The hatred displayed towards some creontes is probably over the top but I don't mind the concept.
+
+
+… also, if I could, I'd be a /r/bjj affiliate for sure.
