@@ -12,8 +12,17 @@ title: BJJ
 						{{ post.title }}
 					</a>
 				</h1>
-				<div class="post-date">
+				<div class="post-meta">
+					{{ post.content | number_of_words | divided_by: 200 }} minute read
+					<svg class="icon">
+					  <use xlink:href="#clock"></use>
+					</svg>
+				</div>
+				<div class="post-meta">
 					{{ post.date | date: "%B %d, %Y" }}
+					<svg class="icon">
+					  <use xlink:href="#calendar"></use>
+					</svg>
 				</div>
 			</header>
 			{{ post.excerpt }}
