@@ -1,36 +1,31 @@
 ---
 layout: blog
-title: Let's learn from the esports scene
+title: Some leads to help BJJ generate money
+drafted: January 27, 2014
 ---
-# esports
+BJJ Eastern Europe featured [a comprehensive article](http://www.bjjee.com/articles/how-long-will-it-take-for-professional-bjj-athletes-to-make-a-good-living/) about making a living through BJJ which reminded me of some notes I had on the same subject… from 6 month ago. Time to unearth them. 
 
-2 types de tournois: inscription payante, pas de publique, 40% de cashprize, le reste est gardé (pas homolgué)
-Tournoi homologué, joueurs invités (ou sur qualif). Payé par l’éditeur et les sponsors, streamé, entré payante pour les spectateurs. Avec cashprize évidement.
+The bulk of this post is going to be about esports. Not only because there [are some parralels between the games themselves]({{ site.baseurl }}2013/12/19/starcraft.html) but also because professional players are [earning shitloads of money](http://www.esportsearnings.com/players). And because I had a friend at hand I could quizz about how they make everything work.
 
-Les joueurs pro sont dans une équipe. Le joueur a ses frais de payés, un salaire et des primes au résultat. En échange, il doit faire des tournois et streamer.
+# eSports
 
-L’équipe est payée par les streams de ses joueurs, par les sponsors, et prend tout ou une partie des cashprize qu’ils remportent. Ils ont des gaming house parfois. Les sponsors ont leur logo sur les teeshirts des joueurs.
-Le stream rapporte beaucoup et ya plus ou moins 3 types de streams:
+There are basically 2 types of competitions. Unofficial ones have entry fees for players and usually no audience. The promoters keep around 60% of the earnings and the rest is for cashprizes. And then there are official competitions where players enter through qualification or get invited. These larger tournaments are run and paid for by the game's editor as well as sponsors. Game editors usually make the bulk of their money through the game directly but the audience has to pay to see those tournaments live — though the streams are sometimes free. The cashprizes on those tournaments are significant.
 
-- les grosses compétitions
-- le live stream des stars, pour observer ce qu’il fais ou ne fais pas
-- les émissions autre, type récaps
+The game editor has complete authority over the game. Not only can they inject money into official competitions, they also make sure it stays competitive. And they tend to make so much money that there are zero risks of corruption ;).
 
-L’esport est un peu plus accessible mais surtout, il y a des commentateurs, qui sont parfois des stars et qui aident beaucoup a démocratiser le truc.
+Profesionnal players are part of teams. Their expenses are covered, they have a wage and bonuses when they win. In return, they are required to participate in competitions advertise their sponsors and stream their day-to-day games. They sometimes live in gaming houses.
 
-Il y a aussi une autorité centrale, l’éditeur du jeu. En plus d’injecter de l’argent avec des compétitions officielles, ils arrivent à réguler les joueurs et les équipes. Ils sont incorruptibles parce qu’ils ont beaucoup trop d’argent.
+The teams themselves take all or most of the players cashprizes, the money from sponsors and earn comfortable money through the players streams. Watching professional players at work [is hugely popular](http://edition.cnn.com/2014/05/19/tech/web/google-youtube-twitch/) — and [profitable](http://www.theguardian.com/technology/2014/may/19/google-youtube-acquisition-games-video-streaming-twitch-1bn).
 
-# what we have in bjj
+I'd venture to say that if the audience is so large, it's partly due to the ubiquitous comments. They make the action understandable by everyone and as a result, some comentators are more famous than elite players.
 
-Pas d’autorité centrale et beaucoup de corruption. Il n’y a pas d’autorité incorruptible qui puisse émerger. Il faut peut etre regarder du coté du web pour voir comment ils font pour gérer les standarts.
 
-Le standart des tournois est vraiment pas tres élevé. La plupart du temps t’es spectateur parce que tu combats, mais c’est tout. Les conditions d’accueil sont pas terribles, pas de commentaires en direct, pas d’écrans pour retransmettre. La différence est faite sur des tournois comme metamoris ou five qui sont nettement au dessus de la moyenne.
+# BJJ & things we could do
 
-On a pas de culture du commentaire. il ya des analyses de match et des podcasts. On a des livres et des dvds et des écoles en ligne.
+The closest thing to a game editor for a sport would be a federation — but there is no such thing in jiu jitsu. And I don't think there will be one anytime soon. The IBJJF is a shady business and few would like them to become official, and who else out there would be big enough to emerge as a federation? The closest chance we have might be some sort of open discution group, similar to what the [WHATWG](http://wiki.whatwg.org/wiki/FAQ#What_is_the_WHATWG.3F) is to the web. The Annual Competition Committee Conference held by FIVE may be a first step in that direction.
 
-Il y a des sponsors pour les athletes individuels, pour les équipes je ne crois meme pas. Les sponsors payent peut etre un peu pour certaines compétitions mais je le vois meme pas trop.
+I think we're doing quite well on the teaching aspect; there are lots of books, dvds, online academies, podcasts… We're still laging behind when it comes to competition footage though. [Most of the time](http://bjjfights.com/) we're left with bootlegs videos and comments are rare. If competition promoters can not afford free live streams, at least make them free a couple of weeks afterwards — I'm fairly sure the sponsors will appreciate it. And please hire comentators; watching a match with comments changes everything.
 
-# what we could do
-A la place de changer les regles pour rendre le sport plus mainstream, il faut le rendre plus attractif déja auprès des pratiquants. Pour ca, il faut commencer a développer les commentaires. Chaque compétition majeure devrait en avoir, en direct c’est chaud mais au moins sur le stream, surtout si le stream est payant. Le live stream peut etre payant mais le replay avec pub serait gratuit.
+Ultimately, I think it boils down to a simple strategy: provide a better service to the growing number of practionners. Strive to make attending a competition a great experience, for both competitors and spectators. Live on-site comments are hardly possible, but announcing intereting fights, providing eveyrone with a comfortable seat & a good view and clearly displaying the points would go a long way.
 
-Il faudrais aussi plus d’émissions genre récaps, analyses. Sur place, il faut commencer à développer une meilleure culture du spectacle. Assurer une bonne vue pour tous et des sieges comfortables. Ca permettras aussi d’encourager les marques à venir vendre sur place. D’ailleurs sur place généraliser les bannières a sponsors type foot c’est le minimum.
+Or we could keep trying to make jiu jitsu more mainstream, make it look more impressive and ban techniques to keep the metagame basic. That turned out great for judo, didnt it?
