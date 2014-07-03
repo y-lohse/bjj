@@ -169,3 +169,12 @@ p a{
 		margin-left: 20px;
 	}
 }
+.post-content hr{
+	margin: 20px 0 40px;
+	border: none;
+	text-align: center;
+	
+	&:before{
+		content: "***";
+	}
+}
