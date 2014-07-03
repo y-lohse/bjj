@@ -7,7 +7,7 @@ BJJ Eastern Europe featured [a comprehensive article](http://www.bjjee.com/artic
 
 I had the idea to compare BJJ with professional video gaming. Not only because there [are some parallels between the games themselves]({{ site.baseurl }}2013/12/19/starcraft.html) but also because professional players are [earning shitloads of money](http://www.esportsearnings.com/players). And because I had a friend at hand I could quizz about how they make everything work.
 
-# eSports
+# eSports 
 
 There are basically 2 types of competitions. Unofficial ones have entry fees for players and usually no audience. The promoters keep around 60% of the earnings and the rest is for prize money. And then there are official competitions where players enter through qualification or get invited. These larger tournaments are run and paid for by the game’s editor as well as sponsors. Game editors usually make the bulk of their money through the game directly but the audience has to pay to see those tournaments live — though the streams are sometimes free. The prize money on those tournaments are significant.
 
