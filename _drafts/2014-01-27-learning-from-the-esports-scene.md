@@ -11,13 +11,13 @@ I had the idea to compare BJJ with professional video gaming. Not only because t
 
 There are basically 2 types of competitions. Unofficial ones have entry fees for players and usually no audience. The promoters keep around 60% of the earnings and the rest is for prize money. And then there are official competitions where players enter through qualification or get invited. These larger tournaments are run and paid for by the game’s editor as well as sponsors. Game editors usually make the bulk of their money through the game directly but the audience has to pay to see those tournaments live — though the streams are sometimes free. The prize money on those tournaments are significant.
 
-The game editor has complete authority over the game. Not only can they inject money into official tournaments, they also make sure the game stays competitive. And they tend to make so much money that there are zero risks of corruption ;).
+The game editor has complete authority over the game. Not only can they inject money into official tournaments, they also make sure the game stays competitive. And they tend to make so much money that there are zero risks of corruption ;)
 
-Profesionnal players are part of teams. Their expenses are covered, they have a wage and bonuses when they win. In return, they are required to participate in competitions, advertise their sponsors and stream their day-to-day games. They sometimes live in gaming houses.
+Profesionnal players are part of teams. Their expenses are covered, they have a wage and bonuses when they win. In return, they are required to participate in competitions, advertise for their sponsors and stream their day-to-day games. They sometimes live in gaming houses.
 
-The teams themselves take all or most of the players cash prizes, the money from sponsors and earn comfortable money through the players streams. Watching professional players at work [is hugely popular](http://edition.cnn.com/2014/05/19/tech/web/google-youtube-twitch/) — and [profitable](http://www.theguardian.com/technology/2014/may/19/google-youtube-acquisition-games-video-streaming-twitch-1bn).
+The teams themselves take all or most of the players cash prizes, the contract-money from sponsors and earn comfortable money through the players streams. Watching professional players at work [is hugely popular](http://edition.cnn.com/2014/05/19/tech/web/google-youtube-twitch/) — and [profitable](http://www.theguardian.com/technology/2014/may/19/google-youtube-acquisition-games-video-streaming-twitch-1bn).
 
-I’d venture to say that if the audience is so large, it’s partly due to the ubiquitous presence if comments. They make the action understandable by everyone and as a result, some comentators are more famous than elite players.
+I’d venture to say that if the audience is so large, it’s partly due to the ubiquitous presence of comments. They make the action understandable to anyone and interestingly, some comentators are more famous than elite players.
 
 
 # BJJ & things we could do
@@ -28,6 +28,6 @@ I think we’re doing quite well on the teaching aspect; there are lots of books
 
 ***
 
-Ultimately, I think it boils down to a simple strategy: provide a better service to the growing number of practionners. Strive to make attending a competition a great experience, for both competitors and spectators. Live on-site comments are hardly possible, but announcing intereting fights, providing eveyrone with a comfortable seat & a good view and clearly displaying the points would go a long way.
+Ultimately, I think it boils down to a simple strategy: provide a better service to the growing number of practionners. Strive to make attending a competition a great experience, for both competitors and spectators. Live on-site comments are hardly possible, but announcing interesting fights, providing everyone with a comfortable seat & a good view and clearly displaying the points would go a long way.
 
 Or we could keep trying to make jiu jitsu more mainstream, make it look more impressive and ban techniques to keep the metagame basic. That turned out great for judo, didn’t it?
