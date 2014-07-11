@@ -22,7 +22,7 @@ Also, I’m planing to attend their 2014 fall camp and I think you have to be a 
 
 The political reason that made me join the BJJ Globetrotters is that the other, default affiliation I’d have, is Gracie Barra. But I don’t feel we are part of them at all. The academy owner is a brown belt under under a GB affiliate but I’ve never met anyone from the headquarter, not even their blackbelt. I don’t feel a part of them and I don’t want to represent them.
 
-My previous academy was somewhat afiliated to David Pierre-Louis and through him to De La Riva. I never met De la Riva but David had (and still has) a huge influence on my game so representing him would totally suit me, but that’s not an option anymore. I *do* toy with the idea of moving to Paris once I’m a dark purple/brown belt to receive my black belt from him. But that is still very far away and a lot of things might change until then. 
+My previous academy was somewhat affiliated to David Pierre-Louis and through him to De La Riva. I never met De la Riva but David had (and still has) a huge influence on my game so representing him would totally suit me, but that’s not an option anymore. I *do* toy with the idea of moving to Paris once I’m a dark purple/brown belt to receive my black belt from him. But that is still very far away and a lot of things might change until then. 
 
 My coach, Salah, does represent Gracie Barra — but I believe he doesn’t care who he fights for. As long as someone signs him off to compete he’s cool. That’s actually a topic on which we kinda disagree.
 
@@ -35,7 +35,7 @@ Salah once told me
 
 I can see the value in that, but I have to say I really like the team aspect. I may have written it before, but I see a lot of similarities between games I used to play online and jiu jitsu. Well, in those games, teams were always a great aspect. Sure, I’m part of the BJj community as a whole — but I also enjoy being part of team that is fighting against the rest of the world.
 
-This is also why i’m not really against the whole *creonte* thing. It’s only natural to feel betrayed when someone leaves your group without notice or good reason. The hatred displayed towards some creontes is probably over the top but I don’t mind the concept.
+This is also why I’m not really against the whole *creonte* thing. It’s only natural to feel betrayed when someone leaves your group without notice or good reason. Some of the creonte-hatred we see certainly is over the top but I don’t mind the concept.
 
 ***
 
