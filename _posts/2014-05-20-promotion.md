@@ -15,3 +15,11 @@ At the same time I also try not to get too carried away by my promotion, because
 My first session as a blue belt went well but in the second, the apparently usual things started: white belts that used to fear me tried to bite my head off. Fresh blue belts wanted to tool me. The switch from *I’m the champion of white belts but blue belts kinda like me too* to *most everyone has a satisfied grin when I get armbared* is kinda funny.
 
 But the truth is, nothing changed over night. I have the same chops than last week, there are things I know and a fucking lot of things I don’t. There’s no way I would give advice to someone without being asked. Even when asked, I would only reluncantly teach something that is not part of my core game. I just don’t know shit yet.
+
+# Bonus
+
+<video controls="controls" width="500px">
+	<source src="{{ site.img }}gauntlet.webm" type="video/webm" />
+</video>
+
+![Gauntlet result]({{ site.img }}gauntlet.png)
