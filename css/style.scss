@@ -179,3 +179,30 @@ p a{
 		content: "***";
 	}
 }
+.post-content figure{
+	margin: 15px 0;
+	
+	&.illustration{
+		@extend .clearfix;
+	}
+	
+	@include width-above(800px){
+		&.illustration{
+			img{
+				width: 70%;
+			}
+			figcaption{
+				float: right;
+				width: 30%;
+				text-align: left;
+				padding-left: 10px;
+			}
+		}
+	}
+}
+.post-content figure figcaption{
+	text-align: center;
+	color: #555;
+	font-style: italic;
+	font-size: 18px;
+}

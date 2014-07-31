@@ -11,11 +11,21 @@ So… yeah. [Paradigm](http://en.wikipedia.org/wiki/Paradigm). That's a word mos
 
 After finishing my last entry it became clear to me that my issue is with the two first points.
 
-<figure></figure>
+<figure class="illustration">
+	<img src="{{ site.img }}technique-to-concept.jpg" alt="From techniques to the concept" />
+	<figcaption>
+		Learning several techniques to understand one underlying concept
+	</figcaption>
+</figure>
 
 But I believe we could — and should — learn things the other way around: first the concept, then the techniques.
 
-<figure></figure>
+<figure class="illustration">
+	<img src="{{ site.img }}technique-to-concept-reversed.jpg" alt="From techniques to the concept" />
+	<figcaption>
+		The same thing, reversed: understanding one underlying concept helps learning several techniques
+	</figcaption>
+</figure>
 
 This is simply a more sustainable way to learn. Learning the basics of a technique may be a little shorter than learning a concept but a concept gives you the basic for several techniques at once. A concept can usually be applied to several positions as well.
 
@@ -43,7 +53,7 @@ First both upper bodies align. #1, #2, #3, and #4 use a sleeve grip to attract t
 
 With #1, #3, and #5 you then post a foot against your opponents leg so that he well trip on it. With the hip bump this is done naturally, but the scissor sweeps have an extra step where you position your free foot. Eventually, you initiate the sweep. #1 and #3 use a scissor motion with the legs and #5 uses the hip (yup, good naming right there).
 
-#2 and #4 combine these last steps into one: instead of blocking and sweeping, you kick out one of the legs, initiating the sweep at the same time.
+ #2 and #4 combine these last steps into one: instead of blocking and sweeping, you kick out one of the legs, initiating the sweep at the same time.
 
 There are minor variations between those techniques but the concept is pretty much the same: align, remove a base and roll. And those are just five techniques on top of my head that use this concept, but there are more.
 

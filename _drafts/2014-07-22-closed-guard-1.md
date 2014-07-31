@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Closed Guard: Introduction & First Cycle
+title: Closed Guard Introduction & First Cycle
 ---
 I'm kicking of a series of posts describing how I'd teach certain aspects of Jiu-Jitsu and the first subject is going to be closed guard — because it's the position I'm the most comfortable in. Yet there are still some aspects of it I ignore; I tried to mark them out.
 
@@ -63,11 +63,19 @@ Similarly, a 0° closed guard is pretty much like a full mount. Don't go for swe
 
 ## Ninety
 
-The 90° angle is a bit of a fallasy, it shouldn't exist — and I rarely see it at higher levels. 
+The 90° angle is a bit of a fallasy, it shouldn't exist — and I rarely see it at higher levels. When posturing up from 0° it's quite tempting to go to 90° because it gets you far away from the guard player. And it's true, submissions will be hard catch… However, 90° is *too* far and if the gaurd players encourages the motion, new opportunities open up.
+
+This encouragemnt is usually done with the hip bump sweep. You can trap the arm and sweep or let it free on purpose to make the passer (who at this point isnt passing anything) base on the hand. This opens up kimuras, triangles... See the 60 techniques from hip bump. I also managed to land some kind of scissor sweep from that position but I've never seen that technique anywhere else.
 
 
+## Seventy
 
-Ensuite vient la position à 90°, souvent adoptée par les adversaires qui viennent juste de s'échapper du 0°. Tentant car ils se retrouvent loin de nous, mais pas hors de danger. Les soumissions sont généralement inataquables depuis cette posture mais il existe un série d'attaque, basé sur le vieux principe d'exagerer le mouvement adverse : s'il veut reculer, allons y. Le hip bump a des grosses chances de réussites et il peut aussi etre fait sous forme de scissor. Il peut aussi etre utilisé pour forcer l'adversaire à poster une main, ouvrant la voix a une kimura (et donc un retour à 0°) ou a des triangles / omoplata.
+Sevently degrees is rightfully considered to be a good posture; at that angle, the passer is sufficiently far away to prevent 0° attacks but not leaning back enough to allow the 90° ones. So what is one to do?
+
+Well the best thing to do is of course to change his posture and we'll see a couple of ways to do hat in the next lesson — but it's not always easy. If you can't alter his posture, there's no point in maintaining a closed guard that will be split opened in a few seconds. Thats the point where you'll want to switch to an open guard.
+
+Open guard itself is a very broad topic so we'll just take a glimpse at it here. The basic approach is to start some dead simple attacks like scisor sweeps and variations (spider scissor, spider roll, ...). The passer will *have to* react to the threat and the reaction will open up new opportunities. There's at least one complete system .
+
 
 70° est considéré comme une bonne posture à raison: a cet angle, votre adversaire est suffisament loin pour que les sousmissions soient difficile mais pas assez ni en avant ni en arriere, bloquant les sweeps dans ces directions (flower et head ovr etant des sweeps vers l'avant). Mais il n'y a pas à déséperer. Le plus effiace est evidement de casser sa posture ou de le forcer à passer en 90°, mais ce n'est pas toujous facile. Si vous ne parvenez pas à influer sur la posture de votre adversaire, le moment est venu d'ouvrir la garde. Vous pouvez éviter que l'adversaire ne se releve avec des bon grips et utiliser des gardes ouvertes simples: les sweeps lateraux sont possibles (scisor, spider scisor, spider roll?) et le réaction adverses à ses menaces vont ouvrir des soumissions (triangles, omoplata -- on est trop loin pour les kimura ou les cléés de bras).
 
