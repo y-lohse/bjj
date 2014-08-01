@@ -9,7 +9,7 @@ So… yeah. [Paradigm](http://en.wikipedia.org/wiki/Paradigm). That's a word mos
 - try to use them during live sparring
 - drill specific technqiues to engrain them in your muscle memory
 
-After finishing my last entry it became clear to me that my issue is with the two first points.
+After finishing [my last entry]({{ site.baseurl }}/2014/07/17/learning.html) it became clear to me that my issue is with the two first points.
 
 <figure class="illustration">
 	<img src="{{ site.img }}technique-to-concept.jpg" alt="From techniques to the concept" />
@@ -27,7 +27,7 @@ But I believe we could — and should — learn things the other way around: fir
 	</figcaption>
 </figure>
 
-This is simply a more sustainable way to learn. Learning the basics of a technique may be a little shorter than learning a concept but a concept gives you the basic for several techniques at once. A concept can usually be applied to several positions as well.
+This is simply a more sustainable way to learn. Learning the basics of a technique may be a little shorter than learning a concept but a concept gives you the basic for several techniques at once.
 
 # A rather obvious example
 
@@ -43,38 +43,52 @@ I'm working on more complex topics but just to demonstrate the point here, I'll 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/DAODBgmPBao" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=SH5FzLuQ15E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/SH5FzLuQ15E" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=Jl_8iVtpTE8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/Jl_8iVtpTE8" frameborder="0" allowfullscreen></iframe>
 
-The names give it away, but those 5 techniques are pretty much the same.
+The names give it away, but those five techniques are pretty much the same. The first step is always to reduce the angle between the two upper bodies.
 
-First both upper bodies align. #1, #2, #3, and #4 use a sleeve grip to attract the opponent while with #5, you are the one moving.
+<figure class="illustration">
+	<img src="{{ site.img }}sweep-70-deg.png" alt="70°" />
+	<figcaption>
+		The normal guard posture, with a (roughly) 70° angle.
+	</figcaption>
+</figure>
 
-With #1, #3, and #5 you then post a foot against your opponents leg so that he well trip on it. With the hip bump this is done naturally, but the scissor sweeps have an extra step where you position your free foot. Eventually, you initiate the sweep. #1 and #3 use a scissor motion with the legs and #5 uses the hip (yup, good naming right there).
+<figure class="illustration">
+	<img src="{{ site.img }}sweep-40-deg.png" alt="40°" />
+	<figcaption>
+		Using a sleeve grip, the posture is starting to break, here down to 40°.
+	</figcaption>
+</figure>
 
- #2 and #4 combine these last steps into one: instead of blocking and sweeping, you kick out one of the legs, initiating the sweep at the same time.
+<figure class="illustration">
+	<img src="{{ site.img }}sweep-zero-deg.png" alt="0°" />
+	<figcaption>
+		Instead of moving your opponent, you can move yourself. With the hip bump, you reduce the angle to 0°.
+	</figcaption>
+</figure>
 
-There are minor variations between those techniques but the concept is pretty much the same: align, remove a base and roll. And those are just five techniques on top of my head that use this concept, but there are more.
+There are minor variations afterwards, but the idea is to roll to the side while suppressing a base. In these techniques, the base that gets removed is the rolling-side leg.  
+The hip bump and the regular scissor sweeps use a foot posted against the leg to "trip" the opponent, the knee push variations kick the leg away. And those are just five techniques that I'm familiar with, but there are more using this concept.
 
 # How can a concept be taught without technique?
 
-Honnestly I don't think thats possible, but maybe I'll come up with something. But the key difference is that you should explain the *concept*, not the techniques. They are just there to illustrate the point, don't bother getting into details.
+Honnestly I don't think thats possible, but maybe I'll come up with something. The key difference is that you should explain the *concept*, not the techniques. They are just there to illustrate the point, don't bother getting into details.
 
-Right now, I'm inclined to think that the following structure would work well:
+Right now, I'm inclined to think that the following steps would work well:
 
-0. Warm up with exercises that relate to the concept.
-1. Explain the concept and illustrate it by roughly showing some techniques using it. Not just one technique, there have to be severall to spur some ideas.
-2. Let every student try the concept out. They should be abble to reproduce at least one technique. Incencitize them to find other applications for the concept. This should be R&D between groups of 2 or more students. Higher belts with more mat time can probably come up with more ideas.
-3. general debrief. Cover points of failures, other technqiues that you hand't shown before. If some groups came up with new application, let them demonstrate it.
-4. Thematic sparring at 50% or lower. Keep practicing the concept but agaisnt a mildly resisting opponent. This is also the time to find counters which shouldn't be too hard because both players understand the concept. No deceptions allowed during the first couple of rolls, then yes. Alternate 5 minutes (or whatever), always the same person attacking and the other defending.
-5. Allow time for technique specific questions. This is where you can give some tips & details.
-6. Full speed sparring.
+1. Warm up with exercises that relate to the concept.
+2. Explain the concept and illustrate it by roughly showing **several** techniques.
+3. Let every student try the concept out. They should be abble to reproduce at least one technique. Incencitize them to find other applications for the concept. This should be research between groups of 2 or more students. Higher belts with more mat time can probably come up with more ideas.
+4. General debrief. Cover points of failures, hint at counters and show other technqiues that you hand't before. If some groups came up with new application, let them demonstrate it.
+5. Thematic sparring at 50% or lower. Keep practicing the concept but agaisnt a mildly resisting opponent. This is also the time to find counters which shouldn't be too hard because both players understand the concept. No deceptions allowed during the first couple of rolls. Give each student enough time to try both the attacks and the counters.
+6. Allow time for technique specific questions. This is where you can give some tips & details.
+7. Full speed sparring.
 
-Of course that would be one very long lesson and theres probably too much to understand, especially if you're new to the concept. The whole cycle should be spread out over several lessons and each lesson doenst need to include all 7 steps.
+I wouldn't suggest doing **all** of the above during a single lesson as it would be overwhelming. But over the course of several lessons, I think this would work quite well.
 
-Please note that I haven't tested this *paradigm* yet.
+# What about drilling?
 
-# What about drilling
-
-Drilling is boring but muscle memory is very real. I don't think you can make a whole class drill the same move because there are very few techniques that everyone uses. But then micromanaging the students isn't an option either, so I don't really have an answer for this.
+Drilling is boring but muscle memory is real and valuable. Everyone has his own game and [drilling something you don't use is pointless]({{ site.baseurl }}/2014/05/21/explorations.html), but micromanaging each student isn't an option either so I don't really have an answer for this. Yet.
