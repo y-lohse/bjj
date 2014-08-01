@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Closed Guard Introduction & First Cycle
+title: Closed Guard — Introduction & First Cycle
 ---
 I'm kicking of a series of posts describing how I'd teach certain aspects of Jiu-Jitsu and the first subject is going to be closed guard — because it's the position I'm the most comfortable in. Yet there are still some aspects of it I ignore; I tried to mark them out.
 
@@ -10,7 +10,7 @@ The closed guard may very well be the easiest of all guards to learn. In any gua
 
 Most opponents will be wise enough not to throw themselves into your closed guard because in modern jiu-jitsu, it just isnt an even position anymore. I think it was Keenan Cornelius saying that “If you're in someones closed guard, you're loosing” (can't find the source though). Still a lot of fights will include a sequence of closed guard, if only because a lot of escapes bring you back there.
 
-We won't cover th dynamics of getting to the closed guard though — we'll focus, as you may have already seen, on what to do when you have the opponent in your closed guard. If you're the one in the guard… just do the opposite :).
+We won't cover the dynamics of getting to the closed guard though — we'll focus, as you may have already seen, on what to do when you have the opponent in your closed guard. If you're the one in the guard… just do the opposite :).
 
 # First Cycle: Posture
 
@@ -72,11 +72,10 @@ This encouragemnt is usually done with the hip bump sweep. You can trap the arm 
 
 Sevently degrees is rightfully considered to be a good posture; at that angle, the passer is sufficiently far away to prevent 0° attacks but not leaning back enough to allow the 90° ones. So what is one to do?
 
-Well the best thing to do is of course to change his posture and we'll see a couple of ways to do hat in the next lesson — but it's not always easy. If you can't alter his posture, there's no point in maintaining a closed guard that will be split opened in a few seconds. Thats the point where you'll want to switch to an open guard.
+Well the best thing to do is of course to change his posture and we'll see a couple of ways to do that in the next lesson — but it's not always easy. If you can't alter his posture, there's no point in maintaining a closed guard that will be split opened in a few seconds. Thats the moment where you'll want to switch to some flavor of open guard.
 
-Open guard itself is a very broad topic so we'll just take a glimpse at it here. The basic approach is to start some dead simple attacks like scisor sweeps and variations (spider scissor, spider roll, ...). The passer will *have to* react to the threat and the reaction will open up new opportunities. There's at least one complete system .
+Open guard itself is a very broad & complex topic but we don't have to dive deep into it for now. The most basic but very effective thing to do is to threaten a sweep after opening the guard. I wrote about such a concept briefly but didn't go into details, and neither will I know because the details of this sweeping system falls outside of the scope of this lesson. Just know taht even if those sweep don't work, they'll open up new possibilities.
 
+***
 
-70° est considéré comme une bonne posture à raison: a cet angle, votre adversaire est suffisament loin pour que les sousmissions soient difficile mais pas assez ni en avant ni en arriere, bloquant les sweeps dans ces directions (flower et head ovr etant des sweeps vers l'avant). Mais il n'y a pas à déséperer. Le plus effiace est evidement de casser sa posture ou de le forcer à passer en 90°, mais ce n'est pas toujous facile. Si vous ne parvenez pas à influer sur la posture de votre adversaire, le moment est venu d'ouvrir la garde. Vous pouvez éviter que l'adversaire ne se releve avec des bon grips et utiliser des gardes ouvertes simples: les sweeps lateraux sont possibles (scisor, spider scisor, spider roll?) et le réaction adverses à ses menaces vont ouvrir des soumissions (triangles, omoplata -- on est trop loin pour les kimura ou les cléés de bras).
-
-Quelque soit l'angle de la posture adverse, un facteur va beaucoup jour sur vos possibilitées: votre mouvement de hanches. Toutes vos attaques reposent sur un degré variable de liberté de mouvement pour vos hanches (afin de créer un angle, on va y revenir). La bonne nouvelle c'est qu'il n'y a pas beaucoup de façons de limiter votre mouvement de hanches. Son tronc ne suffira pas, s'il utilise se jambes il se renverse lui meme. Il lui reste donc les bras, ce qui nous amene a notre second facteur…
+Whatever the angle you're at, your possibilities are limited by the range of motion of your hips. All sweeps and attacks rely on at least some hip mobility — to create an angle, more on this later. The good news is, there aren't that many ways for your opponent to block your hips. If he uses his upper body he'll break his posture, if he uses his legs he'll sweep himself. But he can use his arms and this leads us the next cycle.
