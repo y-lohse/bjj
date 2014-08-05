@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Explorations, April & May 2014
+categories: explorations
 ---
 > 90% of techniques shown in classes and seminars are from a very specific position, which is most likely not related at all to the current problems i’m having in my own BJJ game.
 

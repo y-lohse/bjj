@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Explorations, December 2013
+categories: explorations
 ---
 As I mentionned, I have been working on my open guard game for a couple of months now. I have a solid closed guard game, but during my first competitions I found that if I am unable to pull guard, I’m worthless. And better opponents don’t walk straight into your guard.
 

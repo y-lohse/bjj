@@ -1,0 +1,27 @@
+<li class="post">
+	<article>
+		<header class="post-header">
+			<h1 class="post-title">
+				<a href="{{ site.baseurl }}{{ post.url }}">
+					{{ post.title }}
+				</a>
+			</h1>
+			<div class="post-meta">
+				{{ post.content | number_of_words | divided_by: 160 }} minute read
+				<svg class="icon">
+				  <use xlink:href="#clock"></use>
+				</svg>
+			</div>
+			<div class="post-meta">
+				{{ post.date | date: "%B %d, %Y" }}
+				<svg class="icon">
+				  <use xlink:href="#calendar"></use>
+				</svg>
+			</div>
+		</header>
+		{{ post.excerpt }}
+	</article>
+	<a href="{{ site.baseurl }}{{ post.url }}" class="post-continue">
+		Continue…
+	</a>
+</li>

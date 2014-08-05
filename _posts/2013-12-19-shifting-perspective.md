@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Shifting perspective
+categories: learning
 ---
 To some extent, jiu-jitsu is about solving problems — you have a goal, but something blocks you and you have to find a way to get past that obstacle. Usually that obstacle wears a gi.
 

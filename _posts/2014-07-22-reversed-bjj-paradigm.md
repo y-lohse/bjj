@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: The Reversed BJJ Paradigm
+categories: learning
 ---
 So… yeah. [Paradigm](http://en.wikipedia.org/wiki/Paradigm). That’s a word mostly used in science papers. A paradigm is a way to conceive and area, a thinking model, a framework. BJJ education mostly conforms to a paradigm:
 

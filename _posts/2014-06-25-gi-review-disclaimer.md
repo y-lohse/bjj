@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Gi review disclaimer
+categories: reviews
 ---
 I’ll by reviewing some gis soon and need a generic disclaimer I can link to, so here it is.
 
