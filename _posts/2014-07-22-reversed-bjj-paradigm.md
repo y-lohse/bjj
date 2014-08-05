@@ -31,7 +31,7 @@ This is simply a more sustainable way to learn. Learning the basics of a techniq
 
 # A rather obvious example
 
-I'm working on more complex topics but just to demonstrate the point here, I’ll give a short example. In the following videos, focus on the following techniques if you’re not familair with them:
+I’m working on more complex topics but just to demonstrate the point here, I’ll give a short example. In the following videos, focus on the following techniques if you’re not familair with them:
 
 1. scissor sweep (first video)
 2. scissor sweep — knee push variation (first video)
