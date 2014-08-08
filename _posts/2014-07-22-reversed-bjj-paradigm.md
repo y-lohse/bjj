@@ -84,7 +84,7 @@ Right now, I’m inclined to think that the following steps would work well:
 1. Warm up with exercises that relate to the concept.
 2. Explain the concept and illustrate it by roughly showing **several** techniques.
 3. Let every student try the concept out. They should be abble to reproduce at least one technique. Incencitize them to find other applications for the concept. This should be research between groups of 2 or more students. Higher belts with more mat time can probably come up with more ideas.
-4. General debrief. Cover points of failures, hint at counters and show other technqiues that you hand’t before. If some groups came up with new application, let them demonstrate it.
+4. General debrief. Cover points of failures, hint at counters and show other techniques that you hand’t before. If some groups came up with new application, let them demonstrate it.
 5. Thematic sparring at 50% or lower. Keep practicing the concept but agaisnt a mildly resisting opponent. This is also the time to find counters which shouldn’t be too hard because both players understand the concept. No deceptions allowed during the first couple of rolls. Give each student enough time to try both the attacks and the counters.
 6. Allow time for technique specific questions. This is where you can give some tips & details.
 7. Full speed sparring.
