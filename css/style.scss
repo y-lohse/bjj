@@ -51,6 +51,7 @@ p a{
 	@include width-below(600px){
 		position:static;
 		text-align:left;
+		margin-left: 0;
 	}
 }
 .main-nav .menu{
