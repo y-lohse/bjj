@@ -9,4 +9,4 @@ I’m not a huge gi nerd. I kinda know the different brands and types of fabric 
 
 I know a couple of things about design. Clothing design certainly isn’t my experise but I’m abble to apply knowledge from other design areas.
 
-I’m 1m96 (6’5") and 87kgs (190 pounds). They call me the Sizing Chart Dead Spot©. I’m A5 in terms of length and A3 in terms of weight. Finding a gi taht suits me well is extremely difficult.
+I’m 1m96 (6’5") and 87kgs (190 pounds). They call me the Sizing Chart Dead Spot©. I’m A5 in terms of length and A3 in terms of weight. Finding a gi that suits me well is extremely difficult.
