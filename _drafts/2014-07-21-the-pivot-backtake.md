@@ -20,5 +20,6 @@ Ya peut etre moyen de l'utiliser comme passage, mais on est presque assuré de l
 Outre la vulnérabilité pendant cette transition, le probleme est ensuite de remonter quand on est sur l'arriere de la jambe. L'idée, je pense, est de se hisser. Attention, le bras xposé peut changer en cours de route. On manque aussi pas mal de grips à l'arriere, bien que le pan puisse servir.
 
 
+cross link avec roulis
 
 Note hs : quand l'avseraire est en controle coté et qu'il fait le drill habituel pour passer dnas le dos, saisir son bras qui nous maintiens les hances et rouler sur le dos doit marcher.

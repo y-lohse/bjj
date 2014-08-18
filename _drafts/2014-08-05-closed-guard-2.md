@@ -10,7 +10,7 @@ Whatever the angle you're at, your possibilities are limited by the range of mot
 
 # Second Cycle: Grip Management
 
-Without getting too much into guard passing theory here, a very common thing to do for the passer is to pin the guardians hips or soulders to the ground. Not only does this nullify a lot of attacks, it also helps passing. In this cycle we'll mainly focus on how this can be countered but bear in mind that avoiding the situation altogether is even better. The way I avoid it today is simply by attacking first.
+Without getting too much into guard passing theory here, a very common thing to do for the passer is to pin the guardians hips to the ground. Not only does this nullify a lot of attacks, it also helps passing. In this cycle we'll mainly focus on how this can be countered but bear in mind that avoiding the situation altogether is even better. The way I avoid it today is simply by attacking first.
 
 ***
 
@@ -30,7 +30,7 @@ Your hips can rotate along three axis. Conveniently, movement along those axes h
 		<figure></figure>
 	</li>
 	<li>
-		Pitching is about changing the elevation of yor hips.
+		Pitching is about changing the elevation of your hips.
 		
 		<figure></figure>
 	</li>
@@ -40,22 +40,30 @@ Rotation along any axes has an effect on your and your opponents possibilities. 
 
 ***
 
-So when I talked about pinning the hips or shoulders, what I really meant is preventing pitching. If your pitching is locked you're in trouble and you need to unlock it. Fast. But how?
+So when I talked about pinning the hips or shoulders, what I really meant is preventing pitching. If your pitching is locked you're in trouble and you need to unlock it. Fast.  
+You do this by fighting his grips. There are a couple of ways to break a grip — two on one, slip under, pressure the wrists, … — this area of the game is called grip management. Don't expect someone to stay idle after you broke his grip, he'll either re-grip or go for another one. My friend Mathias relentlessly refuses to get gripped and breaks every single one I get on him. This pisses me off because while he's doing it, he can't make the grip he needs himself; but however boring this is, the truth is that it's an effective strategy.
 
+## Alternative passer grips
 
+Another grip configuration a passer can use is one hand locking the hips, the other one pushing on the plexus. It's a *divided and conquer* type of strategy; two points of pressure instead of one, but with less pressure on each one. This grip position is pretty dangerous because you loose the little pitching that remained through your shoulders. You'ill probably want to break the plexus grip first or opên your guard.
 
+A moderately effective grip consists in pinning the guarderos shoulders instead of his hips (using his lapel or sleeves for example). You can actualy still pitch decently with your hips and even if your arms are blocked, the passers arms are too. For my body type, I foudn hight gaurd to be the msot effective answer, but you can also work to free one of your arms or try to follow along his movements until he lets go of one arm.
 
+Chokes are innefective. **Do not choke someone while in their closed guard**. If your opponent is in your closed gaurd and tries to choke you, he's using his 2 arms without blocking yours or restraining your movement. Some pitching will make him let go, yawing threatens an arm lock and rolling might very well sweep him. If this somehow doesnt work and the air gets tight, post your feet on his hips and push. This will at the very least create enough distance for you to breathe again.
 
-Un clouage au sol bloque votre tangage. Si sa posture est à 0° c'est assez inutile puisque le reste de son corps bloque de toute façon une grande partie de cette axe. En revanche, à 90°, un tangage bloqué vous empechera d'effectuer un hip bump. Il vous reste le sciseaux ou..?
+The last common passing strategy worth mentionning is to block two options with a single grip, as in blocking the gaurderos hips and one of his arms with a single grip. It's not easy to achieve but provides a huge advantage. At that point the guardero should work to free himself pretty fast.
 
-Dans tous les cas, un blocage de tangage doit délcnecher chez vous une alerte rouge, la situation est déja critique. Pour débloquer la situation, il faut lui faire changer ses grips et il eixtde plusieurs méthodes pour ca. Le dégripagr traditionnel (2 on 1, glisser en dessous) peuevtn marcher mais face a des grip solides, le mieux est de mettre la pression sur les poignets adverses jusqu'a ce qu'ils lachent, à l'aide vos jambes et eventuellement des bras. Méfiez-vous, un adversaire qui lache ces grips voudra les récupérer.
+## Grips as a guardero
 
-Il existe d'autres combinaisons de grips possibles pour le passeur. Une particulierement dangereuse est hanche + plexus: en bloquant votre plexus, le tangage ne se limite plus juste aux hanches. Il ne vous reste plus que les bras et les jambes pour le faire lacher, mais un des bras adverses ets hors de portée de vos jambes. Probablement mieux de faire lacher le plexus en utilsiant les 2 bras avant de s'occuper du second grip.
+I'm afraid I can't give any generic advice on this topic. Specific attacks have specific grip setups and while I somehow understand the underlying concepts I'm unable to express them. As an apology, here are a couple of things that may help:
 
-Autre type de grip, ceux qui imobilisent vos bras; soit le lapel qui cloue sous les aisselles, soit les manches. Ces grips la ne sont pas trop problèmatiques dans le sens ou meme si vos bras sont occupés, ceux de votre adversaire aussi. Utiliser le tangage pour suivre ses mouvments jusqu'a ce qu'il se décide à lacher un bras -- a ce moment, recommencez à travailler.
+- Collar grips will help you break the posture
+- Sleeve grips can prevent the enemy from making grips and are good entries for open guards
+- Lapel grips expose you but create good oppenings
+- Underhooks are pretty fucking powerfull
+- Should *you* get underhooked, reply with an instant kimura
+- In other positions, overhooks seem to somewhat mitigate the effect of an underhook 
 
-Les étranglements ne sont pa un probleme: ils mobilisnet les 2 bras adverses et laissent les votre libre, sans bloquer vos hanches ou vos jambes. Un peu de tangage le fera lacher, un lacer pour menacer une clé d bras ou meme un roulis pour renverser.
+***
 
-Si avec un grip, votre adversaire parvient à bloquer 2 possibilités chez vous (par exemple un bras + les hanches)… c'est le moment de paniquer. Vous avez merdé pour vous retrouver dans cette situation, essayez de libérer une des 2 possibilitées.
-
-Vos grips… dépénedant de l'attaque que vous effectuez, pe ude regles générales. Un grip au col vous permet de le ramaner vers vous et d'encourager une posture à 0°, des grips aux manches vous permettent de contrer ses grips (un peu). Des grips au lapel vous exposent mais créent des ouvertures pour la suite. La gestion des over et under hooks est aussi une discipline à elle toute seule.
+Next up is the third and last cycle: angles management. This second cycle introduced the concept of rolling, yawing and pitching and explained how to prevent a lock on those movements. The first cycle was about posture which is really just a result of picthing and explained what to do at different angles. The last cycle will base off those two previous chapters and dwelve deeper into how angles can be used.
