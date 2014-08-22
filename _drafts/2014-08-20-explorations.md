@@ -26,4 +26,13 @@ And a little trick/concept: when you have your two legs smashed together on the 
 
 And I came up with a counter to a side-control transition we drill a lot. There's a tiny moment where the top player exposes his arm on your hips and motion towards your back — if in that precise moment, you push on his elbow kimura style and roll agressively to your back, you can actually push he off you. he timing is tricky but because we tend to overuse it at my academy, there's a reasonable chance I can make that work.
 
-For the next time: as kabout knotting the lapel.
+## Thursday 21
+I came in still wrecked from the last training but ready to push myself again. We kept exploring the colalr and sleeve guard and transitionned to a triangle. note to self, i need to lift my hips way more then I'm use to, those triangles don't come for free. Florian gave me a nice tip at the end: when maintaining the guard, posting the elbow with collar grip against my own knee makes me much heavier and givs an easy slide to the triangle.
+
+I focused on a couple of things while sparring. Retaining the guard went ok but I tend to get passed whenever I take a slight risk. Its a bit frustrating but I guess I'll have to grind through it. I managed to get into deep half guard a suprising number of times which is usually a good sign that a position can work for me. I'm however clueless as to what to do from there. I think I can start to integrate some sweeps now. Betweeen the deep half and lockdown I've worked on with Maxence this summer, I may finally start to have answers to bottom half guard. And I landed a clean over-under pass.
+
+And there was some minor drama. There's a new white belt who is spazzing a little and since he has some basics, he manages to get things done. To be fair, he tapped me with a kimura but I was messing around. ANyway, I know this is common for fresh whitebelts so I came in prepared, but some otehrs weren't. One of our purples got pretty upset and told him to calm the fuck down after he got almost hurt. One other whitebelt actually did get hurt, but I don't know by whom. At the end of the class, Salah explained to the whitebelt how things work and hopefully things will be fine now. I'll go easy on him next time again, but if he pushes the pace…
+
+
+
+For the next time: as about knotting the lapel.

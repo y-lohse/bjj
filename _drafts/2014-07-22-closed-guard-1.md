@@ -16,7 +16,7 @@ We won't cover the dynamics of getting to the closed guard though — we'll focu
 
 ## Warp ups
 
-guard jump, crunches from the guard, grip strengthening, technical stand ups, himp bump crunches, push ups.
+Guard jump, crunches from the guard, grip strengthening, technical stand ups, himp bump crunches, push ups.
 
 ## The concept
 

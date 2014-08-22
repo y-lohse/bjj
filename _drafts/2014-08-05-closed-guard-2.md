@@ -59,10 +59,9 @@ I'm afraid I can't give any generic advice on this topic. Specific attacks have 
 
 - Collar grips will help you break the posture
 - Sleeve grips can prevent the enemy from making grips and are good entries for open guards
-- Lapel grips expose you but create good oppenings
+- Lapel grips expose you but create good openings
 - Underhooks are pretty fucking powerfull
-- Should *you* get underhooked, reply with an instant kimura
-- In other positions, overhooks seem to somewhat mitigate the effect of an underhook 
+- Should *you* get underhooked, reply with an instant kimura 
 
 ***
 
