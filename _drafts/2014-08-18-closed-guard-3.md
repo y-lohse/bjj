@@ -8,6 +8,7 @@ This is a follow up to two other articles. Make sure you undertsand them first.
 
 For this last chapter we are going to dwelve deeper into the usage of angles. Angles are again a very broad topic and while we'll keep things focused on close guard, I'll include some tips on where else these concepts can be used. Again, there are three ways to create an angle: rolling, yawing and pitching. Each of those can be used by you or your opponent.
 
+
 ## Rolling
 
 Only the guardero can use rolling. if a passer rolls (in closed guard at least) he'll sweep himself, so don't bother. But I'm listing rolling last because it's the most complex type of angle; when pitching and yawing, the rotation axis is always the same.
@@ -47,14 +48,18 @@ Most other guards use rolling for sweeps (spider, DLR, half, …) and it is also
 
 ### Test run
 
-Go to the zero degree position then try to get doule underhooks. Open up one side by rolling and work towards a backtake. Notice how one of the opponents arm is isolated; if you can step over it, you get a triangle. Try to use your arm or leg on your closed side to fish for his isolatd arm. Try to stuff it down with your open arm.On the closed side, the passer shoud try to prevent the backtake, probably by overhooking the arm.   
+Go to the zero degree position then try to get doule underhooks. Open up one side by rolling and work towards a backtake. Notice how one of the opponents arm is isolated; if you can step over it, you get a triangle. Try to use your arm or leg on your closed side to fish for his isolatd arm. Try to stuff it down with your open arm.On the closed side, the passer shoud try to prevent the backtake, probably by overhooking the arm. Use that underhook of his to choke him. Aside fro mtaht, the passer shoudl try to go to the open leg. See how he can pass on taht side and how you can prevent that. Let him pass and try to reguard from there.
 
-Séquence d'essai: prendre l'adversaire en 0°. Checher un voir 2 underhooks (le lacage aide, mais en exercice a eviter peut etre). Créer un angle en roulant et travailler vers une prise de dos. Noter que le bras ouvrt a l'adversaire est isolé. Si vous arrivez à l'occuper, vous avez un triangle. Vous pouvz l'occuper en allant pecher son bras avec votre underhook (nicolini vs tatami style), ou alors avec votre jamber fermée? L'adversaire va vous empecher de prendre le dos, peut etre en utilisant son bras coté fermé. Laissez le prendre un overhook pour voir. Essayez dele ramaner devant soit, noter comment ce mouvement crée une opportuité pour lui de prendre l'underhook a son tour,e t bloquer votre mouvement. S'il prend l'underhook, passer a un etrangelement. Notez comment il cherche à tuer votre jambe coté ouvert. S'il le fait, il passe. Essayez de recomposer à partir de la.
+
+## Pitching
+
+We've studied pitching before — 
+
 
 ### Tangage
 Comme déja évoqué, le tangage sert surtout comme méchanisme défensif: en élevant vos hanches, votre adversaire à un obstacle plus haut à contourner. Il permet aussi de casser les grips sur vos hanches en les élevant ou en les baissant. En refermant l'angle, vous réduisez l'angle de la posture, et il n'y a plus qu'a le ramener vers vous pur arriver à 0°. Le hip bump utilise majoritairment le tangage pour renverser, tout comme les kimura. Les triangles et clés de bras aussi mais uniquement dans les phases finales. Le tanagge peut aussi etre utilisé par votre adversaire: en créant un angle de plus de 90°, il se crée des possibilitées de passage (double under, stand up). Le tangage permet de jouer sur la distance, meme si en garde fermée, ce jeu est assez réduit.
 
-Le tangage sert encore beaucoup pluis dans les gardes ouvertes. Ponter, c'est tanger, donc c'est aussi un méchanisme défensif tres utilisé de façon spontanée. Le col et les jambes adverses permettent de manipuler son tangage.
+Le tangage sert encore beaucoup pluis dans les gardes ouvertes. Le col et les jambes adverses permettent de manipuler son tangage.
 
 Séquence d'essai: hip bump, fake hip bump vers kimura et vers triangle. Double under pass, stand up. Essayer de garder l'autre dans la garde penendat le stand up, par exemple en changeant le niveau ou le crochet se referme (épaules, hanches). Essayez le head over sweep. Passez à un angle 0° avec l'adversaire debout, voyez comment c'est fatiguant mais vous permet de de défendre ses bras. Passez à un angle de 180° et observez. Il va pouvori ouvrir tres vite. Testez le lumberjack sweep. Réessayer le sweep avec le passeur qui controle une main, qui presse vers l'avant, ou qui fléchis les genoux. Pendant le double under, observer l'angle entre les postures et notez comment plus il augmente, plus le passage est proche.
 

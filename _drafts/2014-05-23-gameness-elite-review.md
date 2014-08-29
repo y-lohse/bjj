@@ -3,16 +3,20 @@ layout: blog
 title: "Gi Review: Gameness Elite"
 categories: reviews
 ---
-The Gameness Elite is my first real BJJ gi and was given to me — yep, generous friends. Before that I was wearing a 30€ judo kimono, so I kinda tried the worst and what is apparently among the bests.
+Here's my review of the Gameness Elite. It was given to me as a good-bye gift from working colleagues in Troyes in David is to blame for the choice. I've been using it on a regualr basis for over a year now.
 
 ## Gameness
-I don't think the Gameness brand needs much introduction. One of the biggest out there, as far as I can tell they don't carry any specific values. Fair enough.
+Do I need to introduce Gameness? Given they are one of the biggest brands out there, i hardly think so. They have a very common commincation and don't claim particualr values.
 
-## The design
-Flashy. Exhuberant. Bling? Almost.
+## The Design
+If there wasn't [worse out there](), I'd say the Elite is bling. Some like to dress that way. I certainly don't.
 
-The Gameness Elite looks good, but its no wonder it depicts a dog — if you wear it, do it with your head up and a proud look. The fine red stitches almost disapear in the shadow of the (too) many patches. The patches are a happy mix of lettering, arabescs and symbols that isn't incoherent, but certainly a bit heavy on the eye. Most of them look good, but in my oppinion the shoulders should not have been patched at all. The bulldog face is cool if you're into dogs, I'm not so I try to forget about it.
+There are a buch of patches, either stitched to the gi or directly sewn in, usually with a lot of arabesques. “Gameness Elite” is written all over the place, I'm not sure why that is.
 
-Let's say the Elite represents the hiphop side of jiu jitsu fashion — it looks good but not everyone likes to wear that style.
+There's this dogface grinning at people from your leg. I'm happy I don't jave to look at it because I'm wearing the gi.
 
-## Materials & stuff
+The patch on the back looks really good. My mom added the circular VHTS patch, thanks mom.
+
+The red stitches act as good looking contrast on the black.
+
+## 

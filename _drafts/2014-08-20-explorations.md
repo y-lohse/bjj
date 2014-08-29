@@ -26,6 +26,7 @@ And a little trick/concept: when you have your two legs smashed together on the 
 
 And I came up with a counter to a side-control transition we drill a lot. There's a tiny moment where the top player exposes his arm on your hips and motion towards your back — if in that precise moment, you push on his elbow kimura style and roll agressively to your back, you can actually push he off you. he timing is tricky but because we tend to overuse it at my academy, there's a reasonable chance I can make that work.
 
+
 ## Thursday 21
 I came in still wrecked from the last training but ready to push myself again. We kept exploring the colalr and sleeve guard and transitionned to a triangle. note to self, i need to lift my hips way more then I'm use to, those triangles don't come for free. Florian gave me a nice tip at the end: when maintaining the guard, posting the elbow with collar grip against my own knee makes me much heavier and givs an easy slide to the triangle.
 
@@ -34,5 +35,19 @@ I focused on a couple of things while sparring. Retaining the guard went ok but 
 And there was some minor drama. There's a new white belt who is spazzing a little and since he has some basics, he manages to get things done. To be fair, he tapped me with a kimura but I was messing around. ANyway, I know this is common for fresh whitebelts so I came in prepared, but some otehrs weren't. One of our purples got pretty upset and told him to calm the fuck down after he got almost hurt. One other whitebelt actually did get hurt, but I don't know by whom. At the end of the class, Salah explained to the whitebelt how things work and hopefully things will be fine now. I'll go easy on him next time again, but if he pushes the pace…
 
 
+## Tuesday 26
+Good session. We went over the collar and sleeve triangle again and then switched to the omoplata. It's important to lift my hips before yanking the arm to the outside of my leg, have my opponent close enough, pinch the knees and turn to my side to *really* make it work. i have a tendancy to fly in my omoplatas, ending up sweping or getting passed.
 
-For the next time: as about knotting the lapel.
+I had the upper hand against Jeremy, who's my size with 20 extra pounds of pure muscle. I had to push it while he was going a bit more relaxed, but it felt good anyway. I also completed a sweep against Ayub, something that never happens. i can sweep him alrigth but never get on top. Huseyin tapped me out supper smoothly a couple of times in a row, really slick. Salah tapped me too, I tried to pass him using the tripod again. It worked alright but he ended up getting butterfly-like guards and sweep me. I think there's a opening for me if I jump over his lehs when he flattens them to pull me in. I had to slow down a gainst the white belts because I was gased out, but landed some good moves, mainly due to timing.
+
+I ended up asking Salah to show me a lapel knot I had done once accidentaly: youstart with a simple lapel wrap around a leg, and them lapeloplata from there — if the opponent rolls forward, the lapels gets tied up really firmly to your leg, and you get a free control of his arm. I need to work this in my game, I think it can be extremely powerfull.
+
+The white-spaz from last time xwasn't there, I hope he comes back. For the next time, I still need to work on my deep half guard enters as I tend to give a free knee slice pass. And guard retention. If I just *defend* the guard I'm fine but as soon as I attack I tend to get passed.
+
+
+## Thursday 28
+More triangle & omoplata from colalr & sleeve. The omoplata went a bit better but I have to get the bottom leg out *as soon* as i feel the posture is broken, otherwise it gets stuck.
+
+Sparring was good, especially against Geofrrey, our latest purple belt. He seemed a little upset but I wasn't pushing too hard either — I think the gi entanglments frustrated him, but well. On the other hand, Salah completely tooled me. He pushed the pace (which I enjoyed), But man, the tiniest mistake and I'm fucked. And I happen to do a lot of little mistakes. I *see* them rigth afterwards, and agaisnt msot people thats enough to adjust and ge taway… but not there.
+
+Landed one half guard sweep, I can still work on more. Next week I'll actively work to get collar & sleeve guard, it should combine well with my other current assignments, which are deep half guard & guard retention.
