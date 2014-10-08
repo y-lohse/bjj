@@ -41,7 +41,7 @@ The IBJJF worlds were a week ago or so. As a customer:
 Honeslty, those expectations seem fair… yet the IBJJF delivered shit. They *did* sell the commentary replay, but:
 
 1. It was 14$. Sponsors, live stream fees, particpation fees, no cashprizes. Everyone pays, one organisation cashes in. It would be outrageous if the League of Legends worlds finals stream wasn’t free.
-2. For that price, you only get the sunday finals. I do’nt mind but I’m sure some do.
+2. For that price, you only get the sunday finals. I don’t mind but I’m sure some do.
 3. But as a single, 12 hour long video? Seriously?
 4. Available for one week only, no way to download the video or stream it to a tv.
 
