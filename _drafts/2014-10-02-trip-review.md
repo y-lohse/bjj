@@ -47,10 +47,16 @@ Of course it was extremely pleasant to be surounded by jiu-jitsu people. I basic
 
 
 # People
-- ucpa & speed dating & food & laundry
-- christiana
-- party
+
+If there was a little let down for me, it was the socializing part. I've learned the hard way — long hikes alone in the wilderness — that the best part of traveling is meeting people. And that comes from someone quite introverted who enjoys the quiteness of solitude. On the other sports holliday I went, the training was maybe half of the time tops, leaving plenty of room to have drinks and chats with people, getting to know them and building some very awesome memories.
+
+I admitedly missed the "speed dating" on the first day but I don't believe it would have changed much. The schedule was so tightly packed that I think everyone was sore from day two; and then having people accomodated in a range of different locations made gatherings even harder. So while I had some nice talks with people on the mats or in the cafeteria it lacked the bonding experience that would have taken the rest of the trip to the next level. It's even more of a bummer because, well, bjj people are usually awesome to hang out with.
+
+That being said, we are all jiu-jitsu geeks who came to train and the high intensity focus that came from the way the camp was designed was very enjoyable. Like I said, the atmosphere was great, I'd just wish I had had more opportunities to get to know the people there.
+
+the bonding opportunities came later in the week; we made one trip out in Christiana for the 43th birthday which was pretty nice, and there was the closing party. Now the party was a nightclub type of party: great avenue but very loud and bad music, shitty drinks and no escape. Especially no escape because it was really cold, so going outside wasn't too much of an option. Again, I know lots of people enjoy this kind of parties and I can even tolerate having ice cubes in my beer (seriously?), but it wasn't the way I like spending evenings. A quiter & warmer space for hipsters like myself — who just like to sit around and talk to people while sipping on a ncie drink — would be perfect next time.
 
 # conslude
 
+usually things aroudn are better than the main thing, not this time
 I'd do that.
