@@ -54,9 +54,15 @@ I admitedly missed the "speed dating" on the first day but I don't believe it wo
 
 That being said, we are all jiu-jitsu geeks who came to train and the high intensity focus that came from the way the camp was designed was very enjoyable. Like I said, the atmosphere was great, I'd just wish I had had more opportunities to get to know the people there.
 
-the bonding opportunities came later in the week; we made one trip out in Christiana for the 43th birthday which was pretty nice, and there was the closing party. Now the party was a nightclub type of party: great avenue but very loud and bad music, shitty drinks and no escape. Especially no escape because it was really cold, so going outside wasn't too much of an option. Again, I know lots of people enjoy this kind of parties and I can even tolerate having ice cubes in my beer (seriously?), but it wasn't the way I like spending evenings. A quiter & warmer space for hipsters like myself — who just like to sit around and talk to people while sipping on a ncie drink — would be perfect next time.
+The bonding opportunities came later in the week; we made one trip out in Christiana for the 43th birthday which was pretty nice, and there was the closing party. Now the party was a nightclub type of party: great avenue but very loud and bad music, shitty drinks and no escape. Especially no escape because it was really cold, so going outside wasn't too much of an option. Again, I know lots of people enjoy this kind of parties and I can even tolerate having ice cubes in my beer (seriously?), but it wasn't the way I like spending evenings. A quiter & warmer space for hipsters like myself — who just like to sit around and talk to people while sipping on a nice drink — would be perfect next time.
 
-# conslude
+I did however really enjoy sharing a flat with Florian & Marie-Laure. Holliday with friends is usually (for me at least) when people either upgrade to "really good friends" or drop to "cool folks but keep some distance". I'm happy to report that I didn't want to kill anyone at the end of the week, and as far as I can tell the feeling was mutual. And chatting with friends in an appartment with gis hanged up to dry everywhere felt completely right.
 
-usually things aroudn are better than the main thing, not this time
-I'd do that.
+
+# Hindsight
+
+More than the goal I set out for, I've often found myself enjoying the things around it when travelling. As a result I try not to be blinded by my destination and but be aware of the pleasures I might find on the way there. But this trip was different; I went to Copenhagen do train jiu-jitsu, and that's exactly what I did. The things around were… well, things around.
+
+Does it mean I enjoyed it more or less than other travels? I'm not sure. In a couple of years I may have only few memories of special moments from this trip left. But I was also quite affected when I went home. I already had a routine going after a week and stepping away from it, back into a not-so-great job felt wrong.
+
+Which may be the most interesting thing I've learned from this trip; I love jiu-jitsu enough to do it full time without getting bored. I'm still in the process of figuring out how much space exactly BJJ needs in my life and it seems like it may be more then what an unrelated full time job allows.
