@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Black belt seminar
+categories: seminars
 ---
 This week-end I went to my old academy in Troyes to attend a seminar. It was taught by the David Pierre-Louis, the professor they are affiliated to. He’s a black belt under DeLaRiva, one of the most successfull french grapplers but above all a great teacher. I remember all of his lessons very well and he might be the reason why I feel so comfortable in the DeLaRiva guard.
 

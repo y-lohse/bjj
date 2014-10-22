@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Black belt seminar
+categories: seminars
 ---
 I attended [another seminar](http://yannick-lohse.fr/bjj/2014/02/02/seminar-with-black-belt.html) at my old academy two weeks ago, but I have to say this one lacked the systemic approach that David Pierre-Louis usually has when teaching (even though he was the one teaching this time too). We went through a couple of different positions but there was no clear progression this time. There are a couple of usefull tips that I was able to take away but there was no eye-opening moment.
 
