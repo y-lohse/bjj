@@ -38,7 +38,7 @@ Again, I only did [one][graugart] of **Christian Graugarts** classes. We joked a
 
 [Taking][george1] [lessons][george2] from **David George**, a DLR black belt, was very funny in the sense that his moves were incredibly similar to those of [David Pierre-Louis][dpl]. Same cleaness, same spot on explanations but with a touch of british humor. His set of DLR attacks was interesting but his [class on leg locks][leglocks] is what stuck with me most, as it was my first real lesson on the matter.
 
-**Inghtor Vladimarsson** taught one BJJ class [that I attended][ingthor], but while interesting I wasn’t quite as blown away as with most other coaches. He however easily wins the Best Playlist Prize. I heard lots of great things about **Eric Bydairk**’s wrestling classes, but they were sequential and I was on the plane during the first one so I rested during his classes. I’ll learn wrestling next time.
+**Ingthor Vladimarsson** taught one BJJ class [that I attended][ingthor], but while interesting I wasn’t quite as blown away as with most other coaches. He however easily wins the Best Playlist Prize. I heard lots of great things about **Eric Bydairk**’s wrestling classes, but they were sequential and I was on the plane during the first one so I rested during his classes. I’ll learn wrestling next time.
 
 ***
 
