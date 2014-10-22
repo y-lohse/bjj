@@ -25,3 +25,22 @@ At that point I realized what I had just done and lost my focus. But as the figh
 Reflecting on this later that night, I realized that in most of my tournament fights, I was in the zone too. And most of my losses came from fights were I had lost my focus for a moment, puzzled about a position. The fights I won, I can roughly recall the sequences that payed out but no speicfic moments; in the ones I lost, or even those I won but conceided points, there are moments I can recall very well, in which I'm just waiting, before blundering.
 
 I also think the state I was in yesterday is an even deeper one than those in competiton. I'm usually pretty focused against people who smash me, but not *that* much. Not enough to escape several close submissions. If I can improve this ability I think my game will have another skyrocketing phase. Thats especially nice since i haven't plateaued since about 6 month, something I'm very gratefull for.
+
+
+# 22/10/2014
+
+I've done a bit worth than usual these last days, but there are still some takeaways.
+
+Fred has been teaching two classes and — of course — he included judo in the lesson… and it was a lot of fun! I'm now trying to work on my stand up whenever I can and I loose all the time, but we're getting there. He explained how you have to weight down on the opponent and when you attack, you release that weight to make him lighter on his feet. Then he showed us 3 options:
+
+1. Step with the front foot in, the other one close behind and sweep any of the legs. Push/pull on the same side arm at the same time.
+2. Step outside on the far side and hook the right leg with your own right leg and make the opponent trip over it.
+3. Step back with the right foot, creating a void and sucking the opponent into it. The moment he steps in to fill the void, sweep his left foot with your own left foot.
+
+I infered from some things he said that there are two major “forms”, sweeping and hooking.
+
+Aside from that, the most noticed improvement from [Copenhagen]() has been my overall defense. The rate at which I get submitted has simply dropped in spectacular fashion. Whether it's by [turning the wheel]() (applicable e-ve-ry-where), [turtling]() or defending triangles, i'm having success in stormy weather. Even valentin or Fred who used to submit me two or three times in a roll don't manage one every roll anymore.
+
+Something I noticed before leaving is I give up positions to easily. When i'm about to get passed, instead of scrambling I often just settle in the next position and try to survive there. I still need to address this issue but at least now I can hang out in those bad positions safely enough.
+
+i didn't manage to get back into the zone like earlier this month, but it still somewhat happens from time to time. Needs more work. 
