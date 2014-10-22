@@ -42,7 +42,7 @@ p a{
 
 .main-nav{
 	position:fixed;
-	margin-left: -130px;
+	margin-left: -140px;
 	text-align:right;
 	padding-right:20px;
 	font-family:'Merriweather Sans';
@@ -52,6 +52,7 @@ p a{
 		position:static;
 		text-align:left;
 		margin-left: 0;
+		margin-bottom: 40px;
 	}
 }
 .main-nav .menu{
@@ -110,109 +111,123 @@ p a{
 		text-decoration:underline;
 	}
 }
-.post-content p:first-child{
-	&:first-letter{
+.post-content{
+	//drop caps
+	p:first-child:first-letter{
 		float:left;
 		font-size:50px;
 		margin-top: 7px;
 		margin-right:5px;
 	}
-}
-.post-content p + p,
-.post-content ul + p,
-.post-content ol + p{
-	margin-top: 1em;
-}
-.post-content ul,
-.post-content ol{
-	margin-top: .5em;
-	margin-bottom: 1em;
-	list-style-position:outside;
-}
-.post-content ul{
-	list-style-type: square;
-}
-.post-content li{
-	margin-bottom: 7px;
-}
-.post-content h1{
-	margin-top:35px;
-	margin-bottom: 7px;
-	font-size:26px;
-}
-.post-content blockquote{
-	margin: 20px 0;
-	padding-left: 10px;
-	border-left: 2px solid #8a48d6;
-	position: relative;
-	color: #555;
-	font-style: italic;
 	
-	&:before{
-		content: '“';
-		position: absolute;
-		top: 0;
-		right: 100%;
-		font-size: 40px;
-		line-height: 1;
-		font-family: georgia;
-		color: #8a48d6;
-		z-index: 1;
-	}
-	&:after{
-		content: "";
-		background: #fff;
-		width: 20px;
-		height: 25px;
-		position: absolute;
-		top: 0;
-		right: 100%;
+	//usual margins
+	p + p,
+	ul + p,
+	ol + p{
+		margin-top: 1em;
 	}
 	
-	p:first-child:first-letter{
-		font-size: inherit;
-		float: none;
-		margin: 0;
-	}
-	
+	//lists
 	ul,
 	ol{
-		margin-left: 20px;
+		margin-top: .5em;
+		margin-bottom: 1em;
+		list-style-position:outside;
 	}
-}
-.post-content hr{
-	margin: 20px 0 40px;
-	border: none;
-	text-align: center;
-	
-	&:before{
-		content: "***";
+	ul{
+		list-style-type: square;
 	}
-}
-.post-content figure{
-	margin: 15px 0;
-	
-	&.illustration{
-		@extend .clearfix;
+	li{
+		margin-bottom: 7px;
 	}
 	
-	@include width-above(800px){
+	//titles
+	h1{
+		margin-top:35px;
+		margin-bottom: 7px;
+		font-size:26px;
+	}
+	h2{
+		margin-top:20px;
+		margin-bottom: 7px;
+		font-size:22px;
+	}
+	
+	//special stuff
+	blockquote{
+		margin: 20px 0;
+		padding-left: 10px;
+		border-left: 2px solid #8a48d6;
+		position: relative;
+		color: #555;
+		font-style: italic;
+
+		&:before{
+			content: '“';
+			position: absolute;
+			top: 0;
+			right: 100%;
+			font-size: 40px;
+			line-height: 1;
+			font-family: georgia;
+			color: #8a48d6;
+			z-index: 1;
+		}
+		&:after{
+			content: "";
+			background: #fff;
+			width: 20px;
+			height: 25px;
+			position: absolute;
+			top: 0;
+			right: 100%;
+		}
+
+		p:first-child:first-letter{
+			font-size: inherit;
+			float: none;
+			margin: 0;
+		}
+
+		ul,
+		ol{
+			margin-left: 20px;
+		}
+	}
+	hr{
+		margin: 20px 0 40px;
+		border: none;
+		text-align: center;
+
+		&:before{
+			content: "***";
+		}
+	}
+	figure{
+		margin: 15px 0;
+
 		&.illustration{
-			img{
-				width: 70%;
-			}
-			figcaption{
-				float: right;
-				width: 30%;
-				text-align: left;
-				padding-left: 10px;
+			@extend .clearfix;
+		}
+
+		@include width-above(800px){
+			&.illustration{
+				img{
+					width: 70%;
+				}
+				figcaption{
+					float: right;
+					width: 30%;
+					text-align: left;
+					padding-left: 10px;
+				}
 			}
 		}
 	}
-}
-.post-content figure figcaption{
-	text-align: center;
-	color: #555;
-	font-style: italic;
-	font-size: 18px;
+	figure figcaption{
+		text-align: center;
+		color: #555;
+		font-style: italic;
+		font-size: 18px;
+	}
 }
