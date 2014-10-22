@@ -7,16 +7,16 @@
 				{{ page.title }}
 			</h1>
 			<div class="post-meta">
-				{{ page.content | number_of_words | divided_by: 160 }} minute read
 				<svg class="icon">
 				  <use xlink:href="#clock"></use>
 				</svg>
+				{{ page.content | number_of_words | divided_by: 160 }} minute read
 			</div>
 			<div class="post-meta">
-				{{ page.date | date: "%B %d, %Y" }}
 				<svg class="icon">
 				  <use xlink:href="#calendar"></use>
 				</svg>
+				{{ page.date | date: "%B %d, %Y" }}
 			</div>
 		</header>
 		<div class="post-content">

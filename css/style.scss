@@ -1,7 +1,8 @@
 ---
 ---
-@import "http://fonts.googleapis.com/css?family=Merriweather+Sans|Cousine:400,700,400italic&subset=latin,latin-ext";
-$body-copy-font: 'Cousine';
+//@import "http://fonts.googleapis.com/css?family=Merriweather+Sans|Cousine:400,700,400italic&subset=latin,latin-ext";
+@import "http://fonts.googleapis.com/css?family=Merriweather+Sans|Merriweather:400,400italic,700&subset=latin,latin-ext";
+$body-copy-font: 'Merriweather';
 $link-color: #4545ce;
 
 @import "qb/all";
@@ -11,12 +12,17 @@ $link-color: #4545ce;
 	text-decoration:none;
 }
 
+body{
+	color: #333;
+	color: #21201D;
+}
+
 p{
-	font-size:18px;
-	line-height:1.35;
+	font-size:17px;
+	line-height:1.55;
 }
 li{
-	font-size:18px;
+	font-size:17px;
 }
 p a{
 	color:$link-color;
@@ -25,7 +31,12 @@ p a{
 	&:hover,
 	&:focus{
 		color:darken($link-color,10);
-		text-decoration:underline;
+		background-image: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 0.6) 50%);
+		background-repeat: repeat-x;
+		background-size: 2px 2px;
+		background-position: 0px 18px;
+		text-shadow: 2px 0 0 #fff,
+					 -2px 0 0 #fff;
 	}
 }
 
@@ -93,8 +104,11 @@ p a{
 	font-size:16px;
 	color:lighten(#333,10);
 	margin-right: 20px;
+	font-family:'Merriweather Sans';
 }
 .post-meta .icon{
+	position: relative;
+	top: 2px;
 	width: 16px;
 	height: 16px;
 	color:lighten(#333,10);
@@ -113,11 +127,12 @@ p a{
 }
 .post-content{
 	//drop caps
-	p:first-child:first-letter{
+//	p:first-child:first-letter,
+	h1 + p:first-letter{
 		float:left;
-		font-size:50px;
+		font-size:85px;
 		margin-top: 7px;
-		margin-right:5px;
+		margin-right:8px;
 	}
 	
 	//usual margins
@@ -134,9 +149,6 @@ p a{
 		margin-bottom: 1em;
 		list-style-position:outside;
 	}
-	ul{
-		list-style-type: square;
-	}
 	li{
 		margin-bottom: 7px;
 	}
@@ -145,18 +157,22 @@ p a{
 	h1{
 		margin-top:35px;
 		margin-bottom: 7px;
-		font-size:26px;
+		font-size:24px;
+		text-align: center;
+		color: #5c5c5c;
 	}
 	h2{
-		margin-top:20px;
-		margin-bottom: 7px;
-		font-size:22px;
+		margin-top:28px;
+		margin-bottom: 6px;
+		font-size:20px;
+		color: #5c5c5c;
 	}
 	
 	//special stuff
 	blockquote{
 		margin: 20px 0;
 		padding-left: 10px;
+		margin-left: -10px;
 		border-left: 2px solid #8a48d6;
 		position: relative;
 		color: #555;

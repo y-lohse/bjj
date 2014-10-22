@@ -9,3 +9,4 @@ SOurce files for my BJJ blog/journal [published over here](http://yannick-lohse.
 - add titles to category pages
 - on mobile the menu takes up too much vertical space
 - category icons may be fun
+- galeries and links on images
