@@ -10,3 +10,5 @@ SOurce files for my BJJ blog/journal [published over here](http://yannick-lohse.
 - on mobile the menu takes up too much vertical space
 - category icons may be fun
 - galeries and links on images
+- capitalize all titles
+- check drop caps collisions on short paragraphs
