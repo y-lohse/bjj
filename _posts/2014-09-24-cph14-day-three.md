@@ -38,6 +38,7 @@ If my posture is broken down, create a *little* space with my arms to buy some t
 ## Late Escape
 When everything else failed, grab his leg with both hands and yank it down. Then sprawl hard to the closed side to prevent him from getting the right angle. Then wait for the next shit to happen, usually an arm bar.
 
+<a name="george"></a>
 
 # David George: DLR Attacks Against Combat Base
 
