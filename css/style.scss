@@ -78,8 +78,22 @@ p a{
 	margin-bottom:10px;
 }
 .main-nav .category{
+	@include width-below(600px){
+		display: inline-block;
+		margin-right: 10px;
+	}
+}
+.main-nav .category a{
 	color: #888;
 	font-size: 16px;
+
+}
+
+.cat-title{
+	text-align: left;
+	margin-bottom: 20px;
+	border-left: 4px solid #333;
+	padding-left: 10px;
 }
 
 .posts{
@@ -95,6 +109,7 @@ p a{
 .post-title{
 	font-size:28px;
 	letter-spacing: -1px;
+	text-transform: capitalize;
 }
 .post-title a{
 	@extend %discrete-link;
@@ -160,12 +175,14 @@ p a{
 		font-size:24px;
 		text-align: center;
 		color: #5c5c5c;
+		text-transform: capitalize;
 	}
 	h2{
 		margin-top:28px;
 		margin-bottom: 6px;
 		font-size:20px;
 		color: #5c5c5c;
+		text-transform: capitalize;
 	}
 	
 	//special stuff
