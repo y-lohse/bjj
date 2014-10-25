@@ -30,6 +30,8 @@ I only attended one of **Daniel Marques**’s classes, sadly. The lesson was *ok
 
 **Oli Geddes** has the preciseness of a surgeon and the down to earth attitude of a random guy in the gym when he teaches. He checked up every group and always had good answers to provide. Every single one of his classes was a blow. I think I’m using everything he taught us.
 
+![Oli Geddes & us]({{ site.img }}cph14/d6-geddes.jpg)
+
 Again, I only did [one][graugart] of **Christian Graugarts** classes. We joked about how his lessons can be summarized in one simple sentence; easy things to take away, but with great results.
 
 **Kari Gunnarsson** is a cool guy and really knows his shit, but it was [a nogi lesson][kari] and I’m just less drawn to that. I remember what he taught us well but haven’t really used it yet.
@@ -42,7 +44,9 @@ Again, I only did [one][graugart] of **Christian Graugarts** classes. We joked a
 
 ***
 
-Answering the initial question, I may actually have a favorite teacher. Aside from his smooth introductions to the day and very usefull techniques, it struck me how Daniel Bertina was always very realistic during his classes. He wasn’t selling snake oil; when something may not work, he’d point it out. 
+Answering the initial question, I may actually have a favorite teacher. Aside from his smooth introductions to the day and very usefull techniques, it struck me how Daniel Bertina was always very realistic during his classes. He wasn’t selling snake oil; when something may not work, he’d point it out.
+
+![Rolling with Daniel Bertina]({{ site.img }}cph14/d6-bertina.jpg)
 
 > This will be a fight.
 
@@ -60,6 +64,8 @@ I was at the Grøndal Center — a massive sports facility where the [CSA.dk][cs
 By the last class of the second day, I could already feel how my brain was overloading. Without a lot of focus, words went in one ear and straight out the other. On the third morning another problem started: I felt sore all over the place, my knees and elbows kindly warning me that I’d better take it easy.
 
 And so I did. I dialed back the intensity during rolls quite a bit and started taking naps in between classes. To ease up my brain, I also avoided jiu-jitsu outside of classes. I didn’t spar, almost never attended a class as an observer, didn’t drill, didn’t even talk much BJJ. I’d either sleep, eat, read or play chess.
+
+![Daniel Marques & us]({{ site.img }}cph14/d6-marques.jpg)
 
 ## The Result
 
@@ -79,6 +85,8 @@ That being said, we are all jiu-jitsu geeks who came to train and the high inten
 ## Actual Bonding
 
 The bonding opportunities came later in the week; we made one trip out in Christiana for the 43th birthday which was pretty nice, and there was the closing party. Now the party was a nightclub type of party: great avenue but very loud and bad music, shitty drinks and no escape. Especially no escape because it was really cold, so going outside wasn’t too much of an option. Again, I know lots of people enjoy this kind of parties and I can even tolerate having ice cubes in my beer (seriously?), but it wasn’t the way I like spending evenings. A quiter & warmer space for hipsters like myself — who just like to sit around and talk to people while sipping on a nice drink — would be perfect next time.
+
+![Florian, Marie-Laure and me]({{ site.img }}cph14/france.jpg)
 
 I did however really enjoy sharing a flat with Florian & Marie-Laure. Holiday with friends is usually (for me at least) when people either upgrade to “really good friends” or drop to “cool folks but keep some distance”. I’m happy to report that I didn’t want to kill anyone at the end of the week, and as far as I can tell the feeling was mutual. And chatting with friends in an appartment with gis hanged up to dry everywhere felt completely right.
 
