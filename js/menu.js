@@ -19,4 +19,6 @@ $(function(){
 		
 		prevScroll = scrollTop;
 	});
+	
+	$('a').fluidbox();
 });
