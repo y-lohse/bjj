@@ -5,7 +5,7 @@ categories: reviews
 ---
 A review of the [VHTS G2 Gi](http://veryhardtosubmit.com/shop/bjj-gi/g2-brazilian-jiu-jitsu-gi/), after a couple of month using it. [Disclaimer & shit]({{ site.baseurl }}/reviews/2014/06/25/gi-review-disclaimer.html).
 
-![Front view]({{ site.img }}vhts-g2/front.jpg)
+{% include img-link.liquid src="vhts-g2/front.jpg" alt="Front view" %}
 
 # Very Hard To Submit
 VHTS is a small brand from New York. From their [about us](http://veryhardtosubmit.com/about-us/) page:
@@ -16,7 +16,7 @@ This is exactly the sort of values that I care about, so the obvious dedication 
 
 I emailed them before buying the gi to get some sizing recommendations and the contact was great. They answered my questions within hours and were very helpfull. I paid 130$ for the gi and 40$ for the shipping, so that’s 124€ which is the price for a good gi in France anyway. It arrived within 3 weeks or so with some free stickers and patches.
 
-![Back view]({{ site.img }}vhts-g2/back.jpg)
+{% include img-link.liquid src="vhts-g2/back.jpg" alt="Back view" %}
 
 # The design
 An older product description of the G2 explained how the design is based on the original [Gundam Wing](https://www.google.fr/search?q=gundam+wing&client=firefox-nightly&hs=mms&rls=org.mozilla:en-US:unofficial&channel=fflb&source=lnms&tbm=isch&sa=X&ei=56LnU8DyGeeh0QW_hoDwCA&ved=0CAgQ_AUoAQ) which is the second thing that completely won my heart over. A gi designed like an armor? Great. A gi designed after a freaking MOBILE SUIT ARMOR COMBAT ROBOT? Hell yeah! Plus I used to watch the anime as a kid.
@@ -46,7 +46,7 @@ One other thing is that the jacket and pants are not the same blue.  It’s a bi
 
 For starters, the G2 is easily the best cut I’ve ever worn, It just seems made for tall, lean body types. It’s really closer to wearing a suit than an armor, except not as comfortable. Actually not very comfortable. The 550g pearl weave of the jacket started rather soft but became a bit abbrasive after some washes. The gi is **very** stiff when it’s done drying but the stiffness fades away after some rolling.
 
-![The pants]({{ site.img }}vhts-g2/pants.jpg)
+{% include img-link.liquid src="vhts-g2/pants.jpg" alt="The pants" %}
 
 Speaking of fading, the white stitches started to fade away with the first washes (cold washes, mind you). But instead of actualy disapearing — which would have been annoying — the white ink spread to the fibers around, making the blue less blue. It also shrunk a lot smaller over time. Clearly my biggest griefes with this gi.
 

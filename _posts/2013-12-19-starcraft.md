@@ -25,7 +25,7 @@ You also need to adapt your plan as the match goes on. Once you know what your o
 
 This opens up the psychological aspect of the game; because your enemy will adapt to what you do, you can now set up baits and traps. [Jay from JayJitsu has an intresting post](http://www.jayjitsu.com/comparing-jiu-jitsu-to-the-game-of-chess/) about chess and jiu jitsu — he asks how jiu jitsu is closer to chess than to tennis, since in all three cases you “adjust to what your opponent is doing”.
 
-![Don’t know which one looks more confusing]({{ site.img }}starcraftvsberimbolo.png)
+{% include img-link.liquid src="starcraftvsberimbolo.png" alt="Don’t know which one looks more confusing" %}
 
 While all three games involve strategy, you can’t really bait and trap in tennis. Baiting means that you give your opponent the impression that he is in a dominant situation even though you are about to start an effective counter-attack. But there is no such thing as a perceived advantage in tennis — if your opponent is attacking you can only rely on better skills to counter him. Or how often do you see Federer offering his opponent a smash just to counter him?
 

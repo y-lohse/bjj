@@ -18,4 +18,4 @@ The classes themselves were very nice, albeit short. It was my first class with 
 
 I must have been a bit rusty because I didn’t perform too well during the sparing. Some of them had a high pressure passing style and just smashed through my guard, even submitting me a couple of times. To be fair I suspect Daniel paired me with some of his best students since he changed my match-ups a couple of times. The only thing I did well was positional sparring — no one passed my guard, I even managed to fence off some purples.
 
-![The Gracie Bara Hamburg crew]({{ site.img }}gracie-bara-hamburg-2.jpg)
+{% include img-link.liquid src="gracie-bara-hamburg-2.jpg" alt="The Gracie Bara Hamburg crew" %}

@@ -1,4 +1,4 @@
-SOurce files for my BJJ blog/journal [published over here](http://yannick-lohse.fr/bjj)
+Source files for my BJJ blog/journal [published over here](http://yannick-lohse.fr/bjj)
 
 ### Things to do, at some point
 
@@ -7,5 +7,4 @@ SOurce files for my BJJ blog/journal [published over here](http://yannick-lohse.
 - maybe paginating
 - maybe search feature
 - category icons may be fun
-- galeries and links on images
 - check drop caps collisions on short paragraphs

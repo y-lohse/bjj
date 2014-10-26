@@ -22,4 +22,4 @@ But the truth is, nothing changed over night. I have the same chops than last we
 	<source src="{{ site.img }}gauntlet.webm" type="video/webm" />
 </video>
 
-![Gauntlet result]({{ site.img }}gauntlet.png)
+{% include img-link.liquid src="gauntlet.png" alt="Gauntlet result" %}

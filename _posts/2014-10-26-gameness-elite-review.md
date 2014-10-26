@@ -7,13 +7,13 @@ Here's my review of the Gameness Elite. It was given to me as a good-bye gift fr
 
 # Gameness
 
-![Front view]({{ site.img }}gameness-elite/front.jpg)
+{% include img-link.liquid src="gameness-elite/front.jpg" alt="Front view" %}
 
 Do I need to introduce Gameness? Given they are one of the biggest brands out there, I hardly think so. They have a very dull style of communicating and don't claim particualr values.
 
 # The Design
 
-![Some patches]({{ site.img }}gameness-elite/stichings.jpg)
+{% include img-link.liquid src="gameness-elite/stichings.jpg" alt="Some patches" %}
 
 If there wasn't [worse out there](http://veryhardtosubmit.com/shop/bjj-gi/g-chainz-pre-order/), I'd say the Elite is bling. Some like to dress that way. I certainly don't.
 
@@ -35,7 +35,7 @@ There are a buch of patches, either stitched to the gi or directly sewn in, usua
 
 The red stitches act as good looking contrast on the black.
 
-![Shoulder stichings]({{ site.img }}gameness-elite/shoulder.jpg)
+{% include img-link.liquid src="gameness-elite/shoulder.jpg" alt="Shoulder stichings" %}
 
 The gi certainly isn't ugly and if you're into hip-hop apparel you'll probably like it. I favor simpler designs so I'd drop the stupid dog and the shoulder patches.
  
@@ -43,7 +43,7 @@ The gi certainly isn't ugly and if you're into hip-hop apparel you'll probably l
 
 Good money for good quality, that's for sure. The gi shrunk a little too much over acoupleof washes but it still passes competition inspection. The black is a little lighter that when I got it, but aside from that the gi is SOLID. No wholes, no rippins, not even a stich coming loose in over a year of intensive use.
 
-![pants front view]({{ site.img }}gameness-elite/pants.jpg)
+{% include img-link.liquid src="gameness-elite/pants.jpg" alt="pants front view" %}
 
 The pants are made of ripstop. They are less comfortable than cottonpants but slightly lighter. ANother great feature of this gi is the collar;I have no idea what rubber band they put in there, but simply gripping is exhausting, let alone pull on it.
 
@@ -56,7 +56,7 @@ The pants are made of ripstop. They are less comfortable than cottonpants but sl
 
 The best feature at the end: the jacket's inside is made of rashguard! I can only encourage you to buy gis with those, they are a joy to put on. Aaaand more stupid dog faces. A *lot* more.
 
-![pants front view]({{ site.img }}gameness-elite/inside.jpg)
+{% include img-link.liquid src="gameness-elite/inside.jpg" alt="pants front view" %}
 
 ***
 
