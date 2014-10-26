@@ -5,15 +5,17 @@ categories: reviews
 ---
 Here's my review of the Gameness Elite. It was given to me as a good-bye gift from working colleagues in Troyes in David is to blame for the choice. I've been using it on a regular basis for over a year now.
 
+# Gameness
+
 ![Front view]({{ site.img }}gameness-elite/front.jpg)
 
-# Gameness
 Do I need to introduce Gameness? Given they are one of the biggest brands out there, I hardly think so. They have a very dull style of communicating and don't claim particualr values.
 
 # The Design
-If there wasn't [worse out there](), I'd say the Elite is bling. Some like to dress that way. I certainly don't.
 
 ![Some patches]({{ site.img }}gameness-elite/stichings.jpg)
+
+If there wasn't [worse out there](http://veryhardtosubmit.com/shop/bjj-gi/g-chainz-pre-order/), I'd say the Elite is bling. Some like to dress that way. I certainly don't.
 
 There are a buch of patches, either stitched to the gi or directly sewn in, usually with a lot of arabesques. “Gameness Elite” is written all over the place, maybe in case you can't remember what you're wearing.
 

@@ -44,10 +44,11 @@ p a{
 	max-width:600px;
 	margin:0 auto;
 	padding: 40px 20px;
-	position:relative;
+//	position:relative;
 	
 	@include width-below(800px){
 		max-width:400px;
+		padding: 40px 30px;
 	}
 }
 
@@ -87,13 +88,6 @@ p a{
 	color: #888;
 	font-size: 16px;
 
-}
-
-.cat-title{
-	text-align: left;
-	margin-bottom: 20px;
-	border-left: 4px solid #333;
-	padding-left: 10px;
 }
 
 .posts{
@@ -142,7 +136,6 @@ p a{
 }
 .post-content{
 	//drop caps
-//	p:first-child:first-letter,
 	h1 + p:first-letter{
 		float:left;
 		font-size:85px;
@@ -262,5 +255,30 @@ p a{
 		color: #555;
 		font-style: italic;
 		font-size: 18px;
+	}
+}
+
+.gallery{
+	$height: 200px;
+	
+	height: $height;
+	margin: 20px 0;
+	
+	ol{
+		position: absolute;
+		left: 0;
+		max-height: $height;
+		white-space: nowrap;
+		overflow-x: scroll;
+		overflow-y: hidden;
+		width: 100%;
+	}
+	
+	li{
+		display: inline-block;
+	}
+	
+	img{
+		max-height: $height;
 	}
 }

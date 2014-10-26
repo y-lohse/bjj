@@ -18,6 +18,38 @@ Because the armbar is telegraphed, a possible defense is to pull in the shoulder
 - my right arm pushes into the opposite direction, my left arm keeps his arm from straightening
 - hips rise
 
+<div class="gallery">
+	<ol> 
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/1.jpg" alt="Two on one to drag the arm" />
+		</li>
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/2.jpg" alt="Dragging the arm collapses the structure" />
+		</li>
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/3.jpg" alt="Controlling the shoulder with the legs" />
+		</li>
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/4.jpg" alt="Same thing, different angle" />
+		</li>
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/5.jpg" alt="Impromptu americana" />
+		</li>
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/6.jpg" alt="Wrist lock in action" />
+		</li>
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/7.jpg" alt="Wrist lock hold detail" />
+		</li>
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/8.jpg" alt="The actual arm bar" />
+		</li>
+		<li>
+			<img src="{{ site.img }}cph14/cg-serie/9.jpg" alt="Arm bar variation" />
+		</li>
+	</ol>
+</div>
+
 ## Other Options
 Attacking the wrist is very doable from there. Straightening the arm is a defense to both the americana and the wrist lock but leads right into the arm bar. If he pulls the arm away, the triangle is right there. And of course, the omoplata isnt far away either.
 
