@@ -2,6 +2,7 @@
 layout: blog
 title: Explorations, October 2014
 categories: explorations
+excerpt: "Back from the camp in Copenhagen, i’m feeling very notable improvements to my game. I’m having success on the techincal and mental sides for the first half of the month, before slowly falling into a slump."
 ---
 # 9/10/2014
 
