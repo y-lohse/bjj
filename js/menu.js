@@ -21,4 +21,17 @@ $(function(){
 	});
 	
 	$('a').fluidbox();
+	
+	SimpleJekyllSearch.init({
+		searchInput: document.getElementById('search'),
+		resultsContainer: document.getElementById('search-results'),
+		dataSource: '/bjj/search.json',
+		noResultsText: 'nothing found',
+		searchResultTemplate: '<li><a href="{url}">{title}</a></li>'
+	});
+	
+	$('#search').on('keyup', function(){
+		if ($('#search-results').children().length) $('.content').hide();
+		else $('.content').show();
+	});
 });
