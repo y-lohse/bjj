@@ -35,3 +35,11 @@ Have you spotted another difference between the two designs?
 In the final design, I tweaked the kings cross to look… well, more like a cross. thanks to [/u/dispatch134711](http://www.reddit.com/user/dispatch134711) for the suggestion.
 
 So there you go, three BJJ designs that you are free to use however you like.
+
+## Post Mortem
+
+I received my shirt a few weeks after the campaign end, as promised. I knew that printing the exact colors would be tough; I even contacted Fabrily before the end of the campaign to ask if I could help with anything in that regard — fine tuning to colors the printers can match, embed a color profile, etc. They basically said things would be fine.
+
+On the final shirt, the rook is pink. Not purple-slightly-off kind of pink, just actual pink. I suppose you can only expect so much quality from a service like Fabrily, but it’s still disapointing. When I gave them my feedback, they blamed the DTG printing method they used and the number of colors in the design… but again, all of that could have been prevented if they had not dismissed my initial question so lightly.
+
+What ultimately leeds me to advise against services such as Fabrily is that on top of that, the shirt shrunk a lot during the first wash (yes, I used the correct temperature, thank you). And if you want to get this design printed somewhere, make sure the printer knows what his doing :-).
