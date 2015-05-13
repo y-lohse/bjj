@@ -20,8 +20,6 @@ $(function(){
 		prevScroll = scrollTop;
 	});
 	
-	$('a').fluidbox();
-	
 	SimpleJekyllSearch.init({
 		searchInput: document.getElementById('search'),
 		resultsContainer: document.getElementById('search-results'),
@@ -34,4 +32,6 @@ $(function(){
 		if ($('#search-results').children().length) $('.content').hide();
 		else $('.content').show();
 	});
+	
+	$('section.content').fitVids();
 });
