@@ -290,3 +290,10 @@ p a{
 		max-height: $height;
 	}
 }
+
+#search-results{
+	li{
+		list-style: none;
+		margin-bottom:50px;
+	}
+}

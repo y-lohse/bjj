@@ -20,12 +20,23 @@ $(function(){
 		prevScroll = scrollTop;
 	});
 	
+	var searchResultTemplate = '';
+	searchResultTemplate += '<li class="post-header">';
+	searchResultTemplate += '<h1 class="post-title"><a href="{url}">{title}</a></h1>';
+	
+	searchResultTemplate += '<div class="post-meta"><svg class="icon"><use xlink:href="#clock"></use></svg>';
+	searchResultTemplate += '{time} minute read</div>';
+	
+	searchResultTemplate += '<div class="post-meta"><svg class="icon"><use xlink:href="#calendar"></use></svg>';
+	searchResultTemplate += '{fdate}</div>';
+	searchResultTemplate += '</li>';
+	
 	SimpleJekyllSearch.init({
 		searchInput: document.getElementById('search'),
 		resultsContainer: document.getElementById('search-results'),
 		dataSource: '/bjj/search.json',
 		noResultsText: 'nothing found',
-		searchResultTemplate: '<li><a href="{url}">{title}</a></li>'
+		searchResultTemplate: searchResultTemplate
 	});
 	
 	$('#search').on('keyup', function(){
