@@ -20,5 +20,5 @@ $(function(){
 		prevScroll = scrollTop;
 	});
 	
-	$('a').fluidbox();
+	$('section.content').fitVids();
 });
