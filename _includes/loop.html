@@ -19,9 +19,13 @@
 				{{ post.date | date: "%B %d, %Y" }}
 			</div>
 		</header>
+		{% if forloop.index < 10 %}
 		{{ post.excerpt }}
+		{% endif %}
 	</article>
+	{% if forloop.index < 10 %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="post-continue">
 		Continue…
 	</a>
+	{% endif %}
 </li>
