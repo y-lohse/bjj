@@ -24,10 +24,10 @@ $(function(){
 	searchResultTemplate += '<li class="post-header">';
 	searchResultTemplate += '<h1 class="post-title"><a href="{url}">{title}</a></h1>';
 	
-	searchResultTemplate += '<div class="post-meta"><svg class="icon"><use xlink:href="#clock"></use></svg>';
+	searchResultTemplate += '<div class="post-meta"><svg class="icon"><use xlink:href="#icon-clock"></use></svg>';
 	searchResultTemplate += '{time} minute read</div>';
 	
-	searchResultTemplate += '<div class="post-meta"><svg class="icon"><use xlink:href="#calendar"></use></svg>';
+	searchResultTemplate += '<div class="post-meta"><svg class="icon"><use xlink:href="#icon-calendar"></use></svg>';
 	searchResultTemplate += '{fdate}</div>';
 	searchResultTemplate += '</li>';
 	
@@ -40,8 +40,10 @@ $(function(){
 	});
 	
 	$('#search').on('keyup', function(){
-		if ($('#search-results').children().length) $('.content').hide();
-		else $('.content').show();
+		setTimeout(function(){
+			if ($('#search-results').children().length) $('.content').hide();
+			else $('.content').show();
+		}, 0);
 	});
 	
 	$('section.content').fitVids();
