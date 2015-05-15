@@ -54,7 +54,6 @@ p a{
 	max-width:600px;
 	margin:0 auto;
 	padding: 40px 20px;
-//	position:relative;
 	
 	@include width-below(800px){
 		max-width:400px;
@@ -102,6 +101,14 @@ p a{
 .search-wrapper{
 	max-width: 100px;
 	position: relative;
+	
+	@include width-below(600px){
+		position: absolute;
+		top: 40px;
+		right: 20px;
+		max-width: 50%;
+		text-align: right;
+	}
 }
 #search{
 	position: absolute;
@@ -124,6 +131,19 @@ p a{
 	&:focus + .search-label{
 		right: 110%;
 	}
+	
+	@include width-below(600px){
+		position: static;
+		width: 60%;
+		
+		&:focus{
+			width: 60%;//dont move
+		}
+		
+		&:focus + .search-label{
+			right: auto;//dont move
+		}
+	}
 }
 .search-label{
 	position: absolute;
@@ -133,6 +153,11 @@ p a{
 	display: inline-block;
 	max-width: 100%;
 	transition: all .2s ease-out;
+	
+	@include width-below(600px){
+		position: relative;
+		right: auto;
+	}
 }
 
 #search-results{
