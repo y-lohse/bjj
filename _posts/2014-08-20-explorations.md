@@ -2,8 +2,9 @@
 layout: blog
 title: Explorations, August 2014
 categories: explorations
+tags: guard retention, open guard, Cornelius, Salah, half guard, deep half guard, collar and sleeve, triangle, omoplata
 ---
-I used to keep a notebook about my training but it’s a bit inconsistent so i’ll try to keep track of everything here instead.
+I used to keep a notebook about my training but it’s a bit inconsistent so I’ll try to keep track of everything here instead.
 
 # Tuesday 19
 First session of the season! I had no training for over two weeks so I was reeeeally impatient to get back on the mats. Going into the session, I wanted to practice some guard retention concepts I had seen on Keenan’s website and mess around with the deep half guard. I also decided I would try to only spar hard rounds with people better than me.

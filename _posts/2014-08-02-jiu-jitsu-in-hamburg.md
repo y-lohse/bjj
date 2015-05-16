@@ -2,6 +2,7 @@
 layout: blog
 title: Jiu Jitsu in Hamburg
 categories: seminars
+tags: BJJ Globetrotter, Hamburg, travel, Daniel Nunes
 ---
 I went to Hamburg for the week-end recently and used the opportunity to train there. I found a BJJ Globetrotter there who trains at Gracie Barra Hamburg, so that’s where I went.
 

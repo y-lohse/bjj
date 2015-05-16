@@ -2,6 +2,7 @@
 layout: blog
 title: Book Review — Playing To Win by David Sirlin
 categories: reviews
+tags: book, review, win, competition, mindset, confidence, David Sirlin, game, chess
 ---
 David Sirlin is a game designer and former profesionnal Street Fighter player. He wrote a fundamental article called [Playing To Win](http://www.sirlin.net/articles/playing-to-win-part-1.html) that was so successfull he eventually wrote a whole book on the subject. [You can read it for free on his website](http://www.sirlin.net/ptw) but — and I’m going to spoil the review right here — it’s so good that you should buy the hardcover. Especially if you like the introductory article.
 

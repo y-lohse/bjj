@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Academy Openings Aftermath
+tags: Strasbourg, politics, Salah, partner, Jan, Thiago, Florian, Marie-Laure, Ahmed, Mathias, Cyril, crossfit
 ---
 After two month of doubts and uncertainties, the cloud of dust dissipates over The Great Strasbourg BJJ Schism. Whenever there is more than one BJJ club in a city, it is almost a law that drama will happen. This summer, I witnessed the split here in Strasbourg and I’m pretty sure we’re headed straight into some drama.
 
@@ -25,7 +26,7 @@ A purple belt who used to pop-in here and there over the last year is about to o
 There are no contracts in France, you pay for the year up front and that’s it. So I’m now free to go wherever I want. What do I want? A couple of — incompatible — things.
 
 - I’d like to keep training under Salah because he’s an awesome coach & person. 
-- I want to keep training with the close friends I have made: Florian, Marie-Laure, Mathias,Jan, Ahmed, Cyril…
+- I want to keep training with the close friends I have made: Florian, Marie-Laure, Mathias, Jan, Ahmed, Cyril…
 - I’d rather not drive more than 20 minutes to train
 
 Salah is going to teach at GB & at the Crossfit place. Florian & Marie-Laure will likely train at Lipsheim, Jan at Thiago’s, Mathias doesn’t know and I haven’t seen Ahmed in a while.
