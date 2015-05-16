@@ -2,6 +2,7 @@
 layout: blog
 title: Explorations, July 2014
 categories: explorations
+tags: vision, guard, Cornelius, deep half guard, Ryan Hall, personal, Jukka, Mathias, Daniel, Florian, Marie-Laure, Jan, partner
 ---
 Training stopped mid-july at my academy and during the last weeks we were free to do whatever we wanted. There are times when I have a huge list of things I want to try — unfortunately this was not one of them. I ended up just rolling for fun. I tried to focus a bit on thinking ahead and anticipating what my partners would do but I still find that very hard. I may be abble to predict things but it takes me so much focus I can’t do anything else. Basically I can predict how I get submitted.
 

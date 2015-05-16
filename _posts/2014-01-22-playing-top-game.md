@@ -2,6 +2,7 @@
 layout: blog
 title: Playing top game
 categories: explorations
+tag: exploration, passing, top, Salah, reverse omoplata
 ---
 I’m not saying I mastered open guard or anything, but it has become pretty decent. I’ve had several people tell mee how hard I was to pass, some top blue belts still smash pass it but overall it’s holding up steady. So I started playing passer against other white belts… and it’s fun!
 

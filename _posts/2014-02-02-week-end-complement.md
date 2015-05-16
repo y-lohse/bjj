@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: BJJ week-end complement
+tags: David, visit, travel, legs, Troyes, Chaumont, Black Anaconda
 ---
 Aside from the seminar this week-end, I got to roll with a couple of new people which is always interresting. I was mostly looking forward to rolling with the buddies from my old academy but that unfortunately didn’t happen. The only one I could roll with is my friend David (not [Pierre-Louis]({{ site.baseurl }}2014/02/02/seminar-with-black-belt.html) this time), in nogi. David is the one who introduced me to bjj; he trains about four 4 times a week in two or three academies, one of them being an hour drive away. He used to be a notch ahead of me, and rightfully so — he has a lot more martial arts background than i do (almost anyone has), he had trained for 6 month before I started and was basically feeding himself on jiu jitsu videos. He litterally has 3 ipad screens full of bjj apps.
 

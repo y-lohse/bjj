@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Starcraft & BJJ
+tags: abstract, comparision, starcraft
 ---
 We jiu-jitsu guys like to compare our art to chess, but most of my friends are more familiar with video games than thousand year old board games. So when I need to describe bjj, I usually start with “it’s pretty much like starcreft”. But I’ve never looked into it much deeper than that, so here we go.
 

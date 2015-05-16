@@ -13,7 +13,7 @@ Just my type. Scramble has its design roots in Japanese culture and it shows thr
 
 {% include img-link.liquid src="sengoku/shoulder-patch.jpg" alt="The Scramble patch on the shoulders" %}
 
-Just to cap-off this foreword about the brand itself, i’d like to include one of the emails they sent me regarding my order. If nothing beats [personalized, hand-written emails]({{ site.baseurl }}/reviews/2015/05/15/enois-review.html), this is a close second.
+Just to cap-off this foreword about the brand itself, i’d like to include one of the emails they sent me regarding my order. If nothing beats [personalized, hand-written emails]({{ site.baseurl }}/reviews/2015/05/17/enois-spring-review.html), this is a close second.
 
 > We’ve got all the details of your order (and what an order it is! One of the best we’ve ever seen in fact. Good work.) 
 >  

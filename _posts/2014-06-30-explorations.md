@@ -3,6 +3,7 @@ layout: blog
 title: Explorations, June 2014
 categories: explorations
 excerpt: Valentin is one of the training partners I appreciate a lot. He is a blue belt and has been since I know him. Very athletic but despite that technically *extremely* clean -- his moves look like coming out of a textbook. Valentin has also been tooling me for a very long time, exploiting every weakness in my guard to pass, get my back and choke me.
+tags: Valentin, partner, exploration, profile, presentation, DLR, open guard, closed guard, worm guard, IBJJF, Cornelius
 ---
 # Introducing Valentin
 

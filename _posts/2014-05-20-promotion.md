@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: (Actual) Promotion!
+tags: promotion, blue belt
 ---
 I have been promoted to blue belt! Now that it has been a couple of days, I’d like to take some time and reflect on it.
 

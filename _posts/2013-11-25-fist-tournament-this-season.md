@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: First tournament of the season
+tags: competition, tournament
 ---
 Yesterday I competed in a major minor tournament. Minor because the level wasn’t going to be very high — major because it was my first this season and my first under the flag of my new academy. There are some key moments I need to remember, so I’ll write them down.
 
@@ -23,7 +24,7 @@ He armbars me. I didn’t even see it coming. For some reason I thought it was s
 Then I stood up and saw that I actually won on time. Also, as I later saw in the video:
 1. I got my dump after 4 minutes, not 23 hours
 2. the triangle wasn’t even nearly locked in
-3. i resisted the armbar for exactly 1 second before the match ended
+3. I resisted the armbar for exactly 1 second before the match ended
 
 Funny how my memory tricks me.
 

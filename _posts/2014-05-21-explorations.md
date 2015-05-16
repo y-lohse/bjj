@@ -2,8 +2,9 @@
 layout: blog
 title: Explorations, April & May 2014
 categories: explorations
+tags: exploration, Kari Gunarson, Odin, open guard, Salah, lapel, stand up, judo
 ---
-> 90% of techniques shown in classes and seminars are from a very specific position, which is most likely not related at all to the current problems i’m having in my own BJJ game.
+> 90% of techniques shown in classes and seminars are from a very specific position, which is most likely not related at all to the current problems I’m having in my own BJJ game.
 
 [I couldn’t agree more.](http://odinfightwear.com/a-new-approach-to-learning-brazilian-jiu-jitsu/) Something interesting happened some time earlier in march or april — my open guard became hell to almost every one. There are still some select few who seem to be able to pass right through it, but white belts and most blues just don’t pass anymore. And what spurred this change didn’t *technically* happen in class, it was not a technique we drilled during a whole week or something.
 

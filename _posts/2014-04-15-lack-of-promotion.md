@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: (Lack of) Promotion
+tags: promotion, blue belt, competition, loss, berimbolo, pass, triangle, points
 ---
 My last post was almost a month ago… and I did not get promoted! :D
 

@@ -1,1 +1,1 @@
-bundle exec jekyll serve --watch --baseurl '/bjj'
+bundle exec jekyll serve --watch --drafts --baseurl '/bjj'

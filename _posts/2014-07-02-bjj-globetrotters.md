@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Affiliation. And thoughts.
+tags: BJJ Globetrotters, affiliation, Florian, Marie-Laure, politics, Salah, Gracie Barra
 ---
 In what has to be one of my most ironic moves so far, I joined [the BJJ Globetrotters](http://www.bjjglobetrotters.com/), a firmly non-political community — for political reasons.
 
