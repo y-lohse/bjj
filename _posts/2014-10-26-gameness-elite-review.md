@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Gi Review: Gameness Elite"
+title: "Gi Review — Gameness Elite"
 categories: reviews
 ---
 Here's my review of the Gameness Elite. It was given to me as a good-bye gift from working colleagues in Troyes in David is to blame for the choice. I've been using it on a regular basis for over a year now.

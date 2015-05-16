@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Black Belt Blueprint
+title: Book review — The Black Belt Blueprint
 categories: reviews
 tags: book, review, Gregoriades, Kit Dale
 ---

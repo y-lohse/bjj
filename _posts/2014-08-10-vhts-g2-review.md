@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Gi Review: VHTS G2"
+title: "Gi Review — VHTS G2"
 categories: reviews
 ---
 A review of the [VHTS G2 Gi](http://veryhardtosubmit.com/shop/bjj-gi/g2-brazilian-jiu-jitsu-gi/), after a couple of month using it. [Disclaimer & shit]({{ site.baseurl }}/reviews/2014/06/25/gi-review-disclaimer.html).
