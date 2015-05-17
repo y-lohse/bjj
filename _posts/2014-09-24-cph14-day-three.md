@@ -3,6 +3,7 @@ layout: blog
 title: "CPH14: Day Three"
 categories: seminars
 excerpt: A new closed guard attacking system by Daniel Bertina in the morning, then triangle defenses from Christian. David George kicks off the afternoon with DLR attacks against combat base and Oli ends the day with a primer on x-guard.
+tags: cph14, copenhagen, BJJ Globetrotter, travel, Daniel Bertina, armbar, pressure, americana, wristlock, Christian Graugart, triangle, escape, David George, DLR, sweep, berimbolo, Oli Geddes, x guard
 ---
 # Daniel Bertina: Big Pressure Armbar
 

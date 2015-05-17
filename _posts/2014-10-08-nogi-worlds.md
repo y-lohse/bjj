@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Props to the IBJJF
+tags: ibjjf, nogi, worlds, Dan Lukeheart
 ---
 I’m among the first ones [to complain]({{ site.baseurl }}/explorations/2014/06/30/explorations.html) when there’s something wrong, so let’s give credit where credit is due: IBJJF made the nogi worlds stream available for free, with the again excellent Dan Lukeheart on comments. It’s all on youtube so I can watch it on my TV. Really awesome.
 

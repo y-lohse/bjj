@@ -3,6 +3,7 @@ layout: blog
 title: "CPH14: Trip Review"
 categories: seminars
 excerpt: Some overall thoughts about the camp, what I liked, didn't like and learned.
+tags: cph14, copenhagen, BJJ Globetrotter, travel, review, Daniel Bertina, Daniel Marques, Oli Geddes, Christian Graugart, Kari Gunnarsson, Luiz Lyra, Ingthor Vladimarsson, Florian, Marie-Laure
 ---
 [turtle]: {{ site.baseurl }}/seminars/2014/09/25/cph14-day-four.html#marques
 [marques]: {{ site.baseurl }}/seminars/2014/09/27/cph14-day-six.html#marques
