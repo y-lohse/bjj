@@ -119,28 +119,33 @@ p a{
 	max-width: 100%;
 	padding: 4px 0;
 	border: 1px solid #8a48d6;
-	transition: all .2s ease-out;
+	transition: all .3s ease-out;
 	font-size: 14px;
 	
-	&:focus{
+	&:focus,
+	&:valid{
 		width: 100%;
 		padding: 4px 6px;
 		outline: 1px solid #8a48d6;
 	}
 	
-	&:focus + .search-label{
+	&:focus + .search-label,
+	&:valid + .search-label{
 		right: 110%;
+		padding-right: 0;
 	}
 	
 	@include width-below(600px){
 		position: static;
 		width: 60%;
 		
-		&:focus{
+		&:focus,
+		&:valid{
 			width: 60%;//dont move
 		}
 		
-		&:focus + .search-label{
+		&:focus + .search-label,
+		&:valid + .search-label{
 			right: auto;//dont move
 		}
 	}
@@ -149,10 +154,11 @@ p a{
 	position: absolute;
 	z-index: 100;
 	right: 5px;
+	padding-right: 10px;
 	top: 4px;
 	display: inline-block;
 	max-width: 100%;
-	transition: all .2s ease-out;
+	transition: all .5s cubic-bezier(.09,.53,.19,1.46);
 	
 	@include width-below(600px){
 		position: relative;
