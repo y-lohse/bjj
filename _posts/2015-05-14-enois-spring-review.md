@@ -2,6 +2,7 @@
 layout: blog
 title: "Gi Review — É Nóis Spring Gi"
 categories: reviews
+tags: gi, e nois, enois, É Nóis, spring gi, kimono, David Malik Telfer, Merkatsu, VHTS
 ---
 A dumbfounded look is the usual reaction to the first mention of [É Nóis](http://enoisclothing.com/), a BJJ brand that seems to make it's way to the mainstream at a snail's pace. But impressing your local gi addict is not the only reason why you should consider them for your next buy.
 

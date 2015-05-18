@@ -3,12 +3,13 @@ layout: blog
 title: Explorations, November 2014
 categories: explorations
 excerpt: "Not much going on this november. Helping with competition preparation and struggling with pretty much anything."
+tags: slump, plateau, half guard, passing, competition, backstep, longsetp, RLDR, Christian
 ---
 # 06/11
 
 Turns out [the slump]({{ site.baseurl }}/explorations/2014/10/30/explorations.html) is just a little ditch, not an official Plateau©. I’m having fun ad just need to focus a little more on what I’m doing.
 
-There are a couple of competitions this month (of which I’m doing none, shame on me) so we’ll do less learning and more sparring. It started on Tuesday with a minor event that i shouldn’t be happy about, but meh.
+There are a couple of competitions this month (of which I’m doing none, shame on me) so we’ll do less learning and more sparring. It started on Tuesday with a minor event that I shouldn’t be happy about, but meh.
 
 On of my pet peeves in BJJ is people giving advices _while_ rolling. I’m gratefull for advices _afterwards,_ or even short hints, but please don’t lecture me on something during sparring time. Especially not on the sweep I just caught you with. We have two guys doing this and one of them has a very basic game and extensively uses his (enormous) strength. And he constantly lectures people. He got his blue belt a couple of weeks before I got mine so I still can’t tell him to shut the fuck up properly.
 

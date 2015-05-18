@@ -2,14 +2,15 @@
 layout: blog
 title: Explorations, January 2015
 categories: explorations
+tags: plateau, video games, David, Carlie, Salah, Christian, Fred, Kadern stand up, kimura, europeans, ibjjf, back control, choke, bow and arrow, escapes
 ---
 I suppose it’s a bit telling that I write this month’s log on the 26th when I usually update them during the whole month: motivation has been slightly down. The lack of success in the areas I’m trying to improve and some overall tiredness made me skip my 2 first classes… ever. i usually don’t even think about going to class, I just do. But this week I skipped one to stay home and play [Don’t Starve](http://www.dontstarvegame.com/), and another one the next week just to get some rest. I feel a bit guilty about it but at the same time it was relaxing.
 
-That being said I’m not bored of BJJ either, and i still enjoy going there a lot. After a long & stressful day last week I realized once again how great it is to just be forget _everything_ when you step on the mat.
+That being said I’m not bored of BJJ either, and I still enjoy going there a lot. After a long & stressful day last week I realized once again how great it is to just be forget _everything_ when you step on the mat.
 
 # Visitors
 
-I had two visitors over during the holidays. [David]({{ site.baseurl }}/2014/02/02/week-end-complement.html) & I had our [third round]({{ site.baseurl }}/seminars/2014/06/24/second-seminar.html) and I’m proud to report I won that one. I passed his guards couple of times and took his back but fell short of getting a tap. It’s not like it was easy or anything, he’s still a tough fight but i think I’m gaining some ground.
+I had two visitors over during the holidays. [David]({{ site.baseurl }}/2014/02/02/week-end-complement.html) & I had our [third round]({{ site.baseurl }}/seminars/2014/06/24/second-seminar.html) and I’m proud to report I won that one. I passed his guards couple of times and took his back but fell short of getting a tap. It’s not like it was easy or anything, he’s still a tough fight but I think I’m gaining some ground.
 
 I also had Carlie over for a week and took her to a class; it was as uneventful as I hoped. I didn’t feel the need to look tougher because she was on the mat or to dismantle anyone who’d made her tap. It was also the opportunity to check her BJJ skills as we hadn’t had many opportunities to roll together. On the bright side, she’s a good passer; when I wasn’t active she cleanly executed her techniques and passed. She has  good cross-face but isn’t too dangerous submission-wise. And then when she fucks something up, she does so entirely, usually giving free mount or back takes =).
 
@@ -17,7 +18,7 @@ I also had Carlie over for a week and took her to a class; it was as uneventful 
 
 January was also paced with Europeans championship preparations, which are now over. In the end, Salah, Christian, Fred & Kader went there.
 
-Fred stupidly injured himself a week ahead of the competition in a Judo tournament. Just a week prior to that he was telling me how he had been preparing the Europeans for a year now, so messing with his chances for a judo tournament was, well, silly. But5 happy ending, since he placed third.
+Fred stupidly injured himself a week ahead of the competition in a Judo tournament. Just a week prior to that he was telling me how he had been preparing the Europeans for a year now, so messing with his chances for a judo tournament was, well, silly. But happy ending, since he placed third.
 
 Christian won double old. He fights in Masters 5 or so, but still good on him. We haven’t seen him in a long time; I suspect he will pop by any of these days before moving away.
 

@@ -2,6 +2,7 @@
 layout: blog
 title: "Gi Review — Scramble Sengoku"
 categories: reviews
+tags: gi, kimono, scramble, sengoku, japan, ukiyo-e
 ---
 [Scramble](http://www.scramblestuff.com/) has always been a brand on my radar but for whatever reason it took me lot of time to actually investigate their products. Maybe seeing rather plain-looking spats priced at 60€ gave me the impression that they were too pricey to warrant attention — and it _is_ expensive apparel. It also happens to be very high quality one.
 
@@ -13,7 +14,7 @@ Just my type. Scramble has its design roots in Japanese culture and it shows thr
 
 {% include img-link.liquid src="sengoku/shoulder-patch.jpg" alt="The Scramble patch on the shoulders" %}
 
-Just to cap-off this foreword about the brand itself, i’d like to include one of the emails they sent me regarding my order. If nothing beats [personalized, hand-written emails]({{ site.baseurl }}/reviews/2015/05/17/enois-spring-review.html), this is a close second.
+Just to cap-off this foreword about the brand itself, I’d like to include one of the emails they sent me regarding my order. If nothing beats [personalized, hand-written emails]({{ site.baseurl }}/reviews/2015/05/17/enois-spring-review.html), this is a close second.
 
 > We’ve got all the details of your order (and what an order it is! One of the best we’ve ever seen in fact. Good work.) 
 >  

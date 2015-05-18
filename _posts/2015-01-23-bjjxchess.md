@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: BJJ × Chess
-categories: explorations
+tags; tshirt, fabrily, chess, design, shirt, creative commons
 ---
 Twenty-four hours to come up with a t-shirt design you’d like to wear. High quality shirt gets produced for free. What would you do?
 

@@ -3,6 +3,7 @@ layout: blog
 title: Explorations, October 2014
 categories: explorations
 excerpt: "Back from the camp in Copenhagen, i’m feeling very notable improvements to my game. I’m having success on the techincal and mental sides for the first half of the month, before slowly falling into a slump."
+tags: Salah, kimura, turning the wheel, defense, Florian, Marie-Laure, Fred, lasso, slump, focus
 ---
 # 9/10/2014
 
