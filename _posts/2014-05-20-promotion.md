@@ -19,7 +19,7 @@ But the truth is, nothing changed over night. I have the same chops than last we
 
 # Bonus
 
-<video controls="controls" width="500px">
+<video controls="controls" width="100%">
 	<source src="{{ site.img }}gauntlet.webm" type="video/webm" />
 </video>
 
