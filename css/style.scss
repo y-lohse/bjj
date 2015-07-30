@@ -191,6 +191,13 @@ p a{
 .post-title a{
 	@extend %discrete-link;
 }
+.post-cover{
+    @include width-below(600px){
+		margin-left: -30px;
+		max-width: none;
+        width: calc(100% + 60px);
+	}
+}
 .post-meta{
 	display: inline-block;
 	font-size:16px;

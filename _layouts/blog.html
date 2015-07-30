@@ -3,9 +3,12 @@
 <section class="content">
 	<article class="post single">
 		<header class="post-header">
+            {% if page.cover == null %}
 			<h1 class="post-title">
 				{{ page.title }}
 			</h1>
+            {% endif %}
+            <img src="{{ site.img }}{{ page.cover }}" alt="{{ page.title }}" class="post-cover" />
 			<div class="post-meta">
 				<svg class="icon">
 				  <use xlink:href="#icon-clock"></use>
