@@ -1,31 +1,18 @@
-<li class="post">
+<li class="post {% if post.cover == null %}no-cover{% endif %}">
 	<article>
-		<header class="post-header">
-			<h1 class="post-title">
-				<a href="{{ site.baseurl }}{{ post.url }}">
+		<a href="{{ site.baseurl }}{{ post.url }}" class="post-link-global">
+			<header class="post-header">
+				{% if post.cover == null %}
+				<h1 class="post-title">
 					{{ post.title }}
-				</a>
-			</h1>
-			<div class="post-meta">
-				<svg class="icon">
-				  <use xlink:href="#icon-clock"></use>
-				</svg>
-				{{ post.content | number_of_words | divided_by: 160 }} minute read
-			</div>
-			<div class="post-meta">
-				<svg class="icon">
-				  <use xlink:href="#icon-calendar"></use>
-				</svg>
-				{{ post.date | date: "%B %d, %Y" }}
-			</div>
-		</header>
-		{% if forloop.index < 10 %}
-		{{ post.excerpt }}
-		{% endif %}
+				</h1>
+				{% else %}
+				<img src="{{ site.img }}{{ post.cover }}" alt="{{ post.title }}" class="post-cover" />
+				{% endif %}
+			</header>
+			<span class="post-excerpt">
+				{{ post.excerpt | strip_html }}
+			</span>
+		</a>
 	</article>
-	{% if forloop.index < 10 %}
-	<a href="{{ site.baseurl }}{{ post.url }}" class="post-continue">
-		Continue…
-	</a>
-	{% endif %}
 </li>

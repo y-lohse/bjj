@@ -177,15 +177,45 @@ p a{
 	list-style:none;
 }
 .posts .post{
-	margin-bottom:50px;
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+	width: 160px;
+	height: 220px;
+	margin: 0 10px 40px 10px;
+	
+	article{
+		height: 100%;
+	}
+	
+	.post-excerpt{
+		display: none;
+	}
+}
+.posts .post-link-global{
+	display: block;
+	height: 100%;
+	@extend %discrete-link;
+}
+.posts .post.no-cover{
+	border: 1px solid #333;
+	overflow: hidden;
+	background: #101010;
+	color: #fff;
+	
+	.post-title{
+		text-align: center;
+		font-size: 20px;
+		padding: 60px 15px 0 15px;
+		line-height: 1.4;
+	}
 }
 
 .post-header{
 	margin-bottom:20px;
 }
 .post-title{
-	font-size:28px;
-	letter-spacing: -1px;
+	font-size:28px; 
 	text-transform: capitalize;
 }
 .post-title a{
