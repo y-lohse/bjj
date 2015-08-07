@@ -3,6 +3,7 @@ layout: blog
 title: Explorations, August 2014
 categories: explorations
 tags: guard retention, open guard, Cornelius, Salah, half guard, deep half guard, collar and sleeve, triangle, omoplata
+cover: exp-2014-08.png
 ---
 I used to keep a notebook about my training but it’s a bit inconsistent so I’ll try to keep track of everything here instead.
 

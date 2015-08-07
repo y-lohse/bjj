@@ -3,6 +3,7 @@ layout: blog
 title: Explorations, September 2014
 categories: explorations
 tags: collar and sleeve, Salah, crossfit, Nathan, Arnaud, worm guard, Ahmed
+cover: exp-2014-09.png
 ---
 # 12 September
 [Last months explorations]({{ site.baseurl }}/explorations/2014/08/20/explorations.html) was quite dense because I came of a one month break, but since I’ll have less to say this month I’m reverting to [the old exploration format]({{ site.baseurl }}/explorations.html).

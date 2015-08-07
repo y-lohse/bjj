@@ -3,7 +3,7 @@ layout: blog
 title: "Gi Review — Scramble Sengoku"
 categories: reviews
 tags: gi, kimono, scramble, sengoku, japan, ukiyo-e
-cover: covers/sengoku.png
+cover: sengoku.png
 ---
 [Scramble](http://www.scramblestuff.com/) has always been a brand on my radar but for whatever reason it took me lot of time to actually investigate their products. Maybe seeing rather plain-looking spats priced at 60€ gave me the impression that they were too pricey to warrant attention — and it _is_ expensive apparel. It also happens to be very high quality one.
 

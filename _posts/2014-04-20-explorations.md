@@ -3,6 +3,7 @@ layout: blog
 title: Explorations, February 2014
 categories: explorations
 tags: exploration, reverse omoplata, 3D, abstract, arm drag, book
+cover: exp-2014-02.png
 ---
 I had almost no success with the [reverse omoplata]({{ site.baseurl }}2014/01/22/playing-top-game.html), partly because I had a hard time isolating the arm, partly because people just don’t turtle too much around here. I’ll save it for another time.
 

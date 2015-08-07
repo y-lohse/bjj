@@ -3,6 +3,7 @@ layout: blog
 title: Explorations, April & May 2014
 categories: explorations
 tags: exploration, Kari Gunarson, Odin, open guard, Salah, lapel, stand up, judo
+cover: exp-2014-05.png
 ---
 > 90% of techniques shown in classes and seminars are from a very specific position, which is most likely not related at all to the current problems I’m having in my own BJJ game.
 

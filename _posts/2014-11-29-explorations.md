@@ -4,6 +4,7 @@ title: Explorations, November 2014
 categories: explorations
 excerpt: "Not much going on this november. Helping with competition preparation and struggling with pretty much anything."
 tags: slump, plateau, half guard, passing, competition, backstep, longsetp, RLDR, Christian
+cover: exp-2014-11.png
 ---
 # 06/11
 

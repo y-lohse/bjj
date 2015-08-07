@@ -4,6 +4,7 @@ title: Explorations, December 2014
 categories: explorations
 excerpt: "Landing some good things in the middle of a plateau."
 tags: plateau, Valentin, Fred, passing, triangle, Christian, half guard
+cover: exp-2014-12.png
 ---
 # 04/12
 

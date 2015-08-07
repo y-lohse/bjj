@@ -3,6 +3,7 @@ layout: blog
 title: Explorations, January 2015
 categories: explorations
 tags: plateau, video games, David, Carlie, Salah, Christian, Fred, Kadern stand up, kimura, europeans, ibjjf, back control, choke, bow and arrow, escapes
+cover: exp-2015-01.png
 ---
 I suppose it’s a bit telling that I write this month’s log on the 26th when I usually update them during the whole month: motivation has been slightly down. The lack of success in the areas I’m trying to improve and some overall tiredness made me skip my 2 first classes… ever. i usually don’t even think about going to class, I just do. But this week I skipped one to stay home and play [Don’t Starve](http://www.dontstarvegame.com/), and another one the next week just to get some rest. I feel a bit guilty about it but at the same time it was relaxing.
 
