@@ -50,7 +50,7 @@ p a{
 	}
 }
 
-.wrapper{
+.content{
 	max-width:600px;
 	margin:0 auto;
 	padding: 40px 20px;
@@ -175,14 +175,20 @@ p a{
 
 .posts{
 	list-style:none;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 30px;
 }
 .posts .post{
 	display: inline-block;
 	position: relative;
 	vertical-align: top;
-	width: 160px;
-	height: 220px;
+	width: 240px;
+	height: 330px;
 	margin: 0 10px 40px 10px;
+    box-shadow: 2px 2px 0px 0px darken(#fff, 12),
+                4px 4px 0px 0px darken(#fff, 12),
+                6px 6px 0px 0px darken(#fff, 12);
 	
 	article{
 		height: 100%;
