@@ -4,6 +4,52 @@ title: ADCC 2015 predictions
 tags: ADCC, AJ Agrazam, FloGrappling, Joao Miyao, Keenan Cornelius, Eddie Cummings, Geo Martinez, Garry Tonon, Dillon Danis, Yuri Simoes, Bernardo Faria, Mackenzie Dern, Andre Galvao, predictions
 ---
 
+**Update**: [Brackets are out](http://www.flograppling.com/article/33132-adcc-tests-team-loyalties-with-explosive-2015-draws) and several last minute changes, including some of my picks. Here's the final version:
+
+# Male -66 kg
+
+1. Cobrinha
+2. Geo Martinez
+3. Eddie Cummings
+4. Mark Ramos
+
+# Male -77 kg
+
+1. Garry Tonon
+2. Gilbert Burns
+3. Otavio Souza
+4. Davi Ramos
+
+# Male -88 kg
+
+1. Romulo Barral
+2. Keenan Cornelius
+3. Rafael Lovato Jr.
+4. Yuri Simoes
+
+# Male -99 kg
+
+1. Rodolfo Vieira
+2. Joao Assis
+3. Xande Ribeiro
+4. Felipe Pena
+
+# Male +99 kg
+
+1. Rodrigo Cavaca
+2. Vinny Magalhaes
+3. Abraham Marte
+4. Dean Lister
+
+# Female -60 kg
+
+1. Mackenzie Dern
+2. Michelle Nicolini
+3. Beatriz Mesquita
+4. Tammi Musumeci
+
+***
+
 There's a new player in town! <a href="http://www.flograppling.com/">FloGrappling</a> just launched a couple of days ago, and aside from the attrocious <a href="https://en.wikipedia.org/wiki/Leading">leading</a> I'm positively surprised. They have lots of good articles, and <a href="http://www.flograppling.com/article/32867-roberto-cyborg-abreu-to-headline-adcc-2015-in-sao-paulo">this one</a> by AJ Agrazam is far from the worst — contrary to what I expected, to be honest.
 So now I want to give my own predictions for the 2015 ADCC. Of course a lot depends on the brackets, but I'll do without.
 
