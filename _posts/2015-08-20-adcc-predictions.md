@@ -4,49 +4,53 @@ title: ADCC 2015 predictions
 tags: ADCC, AJ Agrazam, FloGrappling, Joao Miyao, Keenan Cornelius, Eddie Cummings, Geo Martinez, Garry Tonon, Dillon Danis, Yuri Simoes, Bernardo Faria, Mackenzie Dern, Andre Galvao, predictions
 ---
 
+**Update 2**: I completed my predictions with the actual results. Correct predictions are in <span style="color: #297b16;">green</span>, wrong result but on the podium are <span style="color: #c36c21;">orange</span> and flat-out wrong predictions are <span style="color: #d41f1f;">red</span>. Actual results are in *italics*.
+
+Out of 24, I got 4 <span style="color: #297b16;">completely right</span> and 7 <span style="color: #d41f1f;">completely wrong</span>, which means 13 <span style="color: #c36c21;">correct finalists at incorrect places</span>. I also got my Galvao prediction right. Not too bad, but since my picks were quite conservative it's not that good either.
+
 **Update**: [Brackets are out](http://www.flograppling.com/article/33132-adcc-tests-team-loyalties-with-explosive-2015-draws) and several last minute changes, including some of my picks. Here's the final version:
 
 # Male -66 kg
 
-1. Cobrinha
-2. Geo Martinez
-3. Eddie Cummings
-4. Mark Ramos
+1. <span style="color: #297b16;">Cobrinha</span> *Cobrinha*
+2. <span style="color: #c36c21;">Geo Martinez</span> *Bruno Frazatto*
+3. <span style="color: #d41f1f;">Eddie Cummings</span> *Augusto Mendes*
+4. <span style="color: #d41f1f;">Mark Ramos</span> *Geo Martinez*
 
 # Male -77 kg
 
-1. Garry Tonon
-2. Gilbert Burns
-3. Otavio Souza
-4. Davi Ramos
+1. <span style="color: #d41f1f;">Garry Tonon</span> *Davi Ramos*
+2. <span style="color: #c36c21;">Gilbert Burns</span> *Lucas Lepri*
+3. <span style="color: #c36c21;">Otavio Souza</span> *Gilbert Burns*
+4. <span style="color: #c36c21;">Davi Ramos</span> *Otavio Souza*
 
 # Male -88 kg
 
-1. Romulo Barral
-2. Keenan Cornelius
-3. Rafael Lovato Jr.
-4. Yuri Simoes
+1. <span style="color: #c36c21;">Romulo Barral</span> *Yuri Simoes*
+2. <span style="color: #297b16;">Keenan Cornelius</span> *Keenan Cornelius*
+3. <span style="color: #d41f1f;">Rafael Lovato Jr.</span> *Romulo Barral*
+4. <span style="color: #c36c21;">Yuri Simoes</span> *Rustav Chsiev*
 
 # Male -99 kg
 
-1. Rodolfo Vieira
-2. Joao Assis
-3. Xande Ribeiro
-4. Felipe Pena
+1. <span style="color: #297b16;">Rodolfo Vieira</span> *Rodolfo Vieira*
+2. <span style="color: #c36c21;">Joao Assis</span> *Felipe Pena*
+3. <span style="color: #c36c21;">Xande Ribeiro</span> *Joao Assis*
+4. <span style="color: #c36c21;">Felipe Pena</span> *Xande Ribeiro*
 
 # Male +99 kg
 
-1. Rodrigo Cavaca
-2. Vinny Magalhaes
-3. Abraham Marte
-4. Dean Lister
+1. <span style="color: #d41f1f;">Rodrigo Cavaca</span> *Orlando Sanchez*
+2. <span style="color: #c36c21;">Vinny Magalhaes</span> *Jared Dopp*
+3. <span style="color: #d41f1f;">Abraham Marte</span> *Vinny Magalhaes*
+4. <span style="color: #d41f1f;">Dean Lister</span> *Joao Gabriel*
 
 # Female -60 kg
 
-1. Mackenzie Dern
-2. Michelle Nicolini
-3. Beatriz Mesquita
-4. Tammi Musumeci
+1. <span style="color: #297b16;">Mackenzie Dern</span>
+2. <span style="color: #c36c21;">Michelle Nicolini</span>
+3. <span style="color: #c36c21;">Beatriz Mesquita</span>
+4. <span style="color: #c36c21;">Tammi Musumeci</span>
 
 ***
 
