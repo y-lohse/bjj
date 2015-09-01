@@ -2,6 +2,7 @@
 layout: blog
 title: ADCC 2015 predictions
 tags: ADCC, AJ Agrazam, FloGrappling, Joao Miyao, Keenan Cornelius, Eddie Cummings, Geo Martinez, Garry Tonon, Dillon Danis, Yuri Simoes, Bernardo Faria, Mackenzie Dern, Andre Galvao, predictions
+cover: adcc-2015.jpg
 ---
 
 **Update 2**: I completed my predictions with the actual results. Correct predictions are in <span style="color: #297b16;">green</span>, wrong result but on the podium are <span style="color: #c36c21;">orange</span> and flat-out wrong predictions are <span style="color: #d41f1f;">red</span>. Actual results are in *italics*.
