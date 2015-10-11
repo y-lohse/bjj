@@ -1,0 +1,410 @@
+@charset "UTF-8";
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0; }
+
+header, footer, section {
+  display: block; }
+
+*, *:after, *:before {
+  box-sizing: border-box; }
+
+/*
+ * miscellaneous stuff, not really box related but always needed
+ */
+img {
+  border: 0; }
+
+a:focus {
+  outline: thin dotted; }
+
+a:active,
+a:hover {
+  outline: 0; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+textarea {
+  overflow: auto;
+  font-family: inherit;
+  resize: vertical;
+  font-size: 100%; }
+
+button,
+input,
+select {
+  font: inherit;
+  font-size: 100%; }
+
+button[disabled],
+input[disabled] {
+  cursor: default; }
+
+label, input[type="button"], input[type="submit"], input[type="image"], button {
+  cursor: pointer; }
+
+button,
+html input[type="button"], input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer; }
+
+input[type="search"] {
+  -webkit-appearance: textfield; }
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+button::-moz-focus-inner {
+  border: none; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  font-weight: normal; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  font-weight: normal; }
+
+ul, ol {
+  list-style-position: inside; }
+
+ol {
+  list-style-type: decimal; }
+
+button {
+  background: none;
+  border: none; }
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+b,
+strong {
+  font-weight: bold; }
+
+dfn {
+  font-style: italic; }
+
+pre,
+code,
+samp {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-family: monospace, serif; }
+
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019"; }
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0; }
+
+.clearfix {
+  display: inline-block; }
+
+/* start commented backslash hack \*/
+* html .clearfix {
+  height: 1%; }
+
+.clearfix {
+  display: block; }
+
+/* close commented backslash hack */
+html,
+body {
+  height: 100%;
+  font-family: "skolar";
+  font-size: 18px;
+  background: #f7f7f7;
+  color: #222; }
+
+p,
+ul,
+ol,
+dl {
+  font-size: 1.2rem;
+  line-height: 1.45;
+  max-width: 600px;
+  margin: 25px auto;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.intro {
+  max-width: 900px;
+  margin-bottom: 35px;
+  font-weight: bold;
+  line-height: 1.38;
+  padding-top: 10px;
+  padding-bottom: 10px; }
+
+.sidenote {
+  max-width: 300px;
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  font-size: 0.85rem;
+  line-height: 1.2; }
+
+.profile {
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-right: 10px;
+  color: #fff;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px; }
+  .profile a {
+    color: #fff;
+    text-decoration: underline; }
+  .profile .headshot {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #fff;
+    margin-right: 12px; }
+  .profile.sanchez {
+    background: #176caa; }
+  .profile.faber {
+    background: #aa2817; }
+
+dt, dd {
+  float: left;
+  width: 50%;
+  margin-bottom: 8px;
+  padding: 0 10px; }
+
+dd {
+  text-align: left; }
+
+dt {
+  text-align: right; }
+
+ul, ol {
+  list-style-position: outside; }
+
+li {
+  margin-bottom: 8px; }
+
+p a,
+li a {
+  color: #2a95ce;
+  text-decoration: none; }
+  p a:hover,
+  li a:hover {
+    background: rgba(42, 149, 206, 0.2); }
+
+a.note {
+  color: inherit; }
+  a.note:after {
+    content: " °"; }
+
+.cover-wrapper {
+  margin-bottom: 80px; }
+
+.dropcap:first-letter {
+  float: left;
+  font-size: 6rem;
+  line-height: 6rem;
+  margin-top: 7px;
+  margin-right: 8px; }
+
+.inverted {
+  background: #323134;
+  color: #fff;
+  margin-bottom: 120px;
+  margin-top: 120px; }
+  .inverted p {
+    line-height: 1.6; }
+
+.crowd {
+  background-image: url(../crowd.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 600px; }
+
+.ice {
+  background-image: url(../ice.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100%;
+  height: 160px;
+  position: relative;
+  top: 63px;
+  margin: auto; }
+
+.pull-quote {
+  position: relative;
+  max-width: 800px;
+  padding: 0 15px;
+  margin: 60px auto;
+  font-size: 2.2rem;
+  text-align: left;
+  opacity: .6; }
+  .pull-quote:before {
+    content: '“';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 100%;
+    font-size: 6rem; }
+  .pull-quote:after {
+    content: '”';
+    display: block;
+    position: absolute;
+    top: auto;
+    top: 60%;
+    left: 100%;
+    font-size: 6rem; }
+
+.duel {
+  text-align: center;
+  margin: 40px auto; }
+  .duel iframe {
+    display: inline-block;
+    max-width: 100%;
+    width: 400px;
+    height: 300px; }
+  .duel img {
+    display: inline-block;
+    max-width: 100%;
+    width: 400px;
+    height: 300px; }
+
+.credits {
+  margin-top: 160px;
+  padding: 0 15px 20px;
+  background: #eaeaea; }
+
+.social {
+  position: relative;
+  top: -70px;
+  text-align: center;
+  margin-bottom: -20px; }
+  .social a {
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0 40px; }
+    .social a.facebook {
+      background: #3b5998; }
+      .social a.facebook img {
+        height: 50%;
+        position: relative;
+        right: 2px;
+        top: 2px; }
+    .social a.twitter {
+      background: #00aced; }
+      .social a.twitter img {
+        height: 40%;
+        position: relative;
+        left: 3px;
+        top: 2px; }
+
+.cover-wrapper {
+  max-height: 100%;
+  position: relative;
+  overflow: hidden; }
+  .no-touch .cover-wrapper {
+    -webkit-perspective: 4000px;
+            perspective: 4000px; }
+  .cover-wrapper::before {
+    /* never visible - this is used in jQuery to check the device type */
+    content: 'web';
+    display: none; }
+  .touch .cover-wrapper::before {
+    /* never visible - this is used in jQuery to check the device type */
+    content: 'mobile'; }
+
+.cover-floating-background {
+  position: relative; }
+  .cover-floating-background picture, .cover-floating-background img {
+    display: block;
+    width: 100%;
+    -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+    /* fixes a Firefox bug - images not correctly rendered*/
+    background-color: rgba(255, 255, 255, 0.01); }
+  .cover-floating-background picture:not(:first-child) {
+    position: absolute;
+    top: 0;
+    left: 0; }
+  .no-touch .cover-floating-background {
+    top: 0;
+    left: 0;
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+    -webkit-transform: translateZ(0);
+            transform: translateZ(0); }
+    .no-touch .cover-floating-background.is-absolute {
+      position: absolute; }
+    .no-touch .cover-floating-background picture:first-child {
+      -webkit-transform: translateZ(10px);
+              transform: translateZ(10px); }
+    .no-touch .cover-floating-background picture:nth-child(2) {
+      -webkit-transform: translateZ(100px);
+              transform: translateZ(100px); }
+    .no-touch .cover-floating-background picture:nth-child(3) {
+      -webkit-transform: translateZ(150px);
+              transform: translateZ(150px); }
+    .no-touch .cover-floating-background picture:nth-child(4) {
+      -webkit-transform: translateZ(400px);
+              transform: translateZ(400px); }
+    .no-touch .cover-floating-background picture:nth-child(5) {
+      -webkit-transform: translateZ(600px);
+              transform: translateZ(600px); }
+  .no-touch.no-preserve-3d .cover-floating-background {
+    /* we target browsers that don't support preserve-3d and show just a standard image - no effect visible */
+    position: relative; }

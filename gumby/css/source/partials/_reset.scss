@@ -1,0 +1,176 @@
+//cancel default margins, paddings & borders
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+header,footer,section{
+	display: block;
+}
+
+//switching box model
+*, *:after, *:before{
+	box-sizing: border-box;
+}
+
+
+/*
+ * miscellaneous stuff, not really box related but always needed
+ */
+img{
+    border: 0;
+}
+
+a{
+	//Addresses `outline` inconsistency between Chrome and other browsers.
+	&:focus{
+		outline: thin dotted;
+	}
+	
+	//Improves readability when focused and also mouse hovered in all browsers.
+	&:active,
+	&:hover{
+		outline: 0;
+	}
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+textarea {
+	overflow: auto;
+	font-family: inherit;
+	resize: vertical;
+	font-size: 100%;
+}
+
+button,
+input,
+select{
+    font: inherit;
+    font-size: 100%;
+}
+
+//Re-set default cursor for disabled elements.
+button[disabled],
+input[disabled]{
+    cursor: default;
+}
+
+//Hand cursor on clickable input elements
+label,input[type="button"],input[type="submit"],input[type="image"],button{
+	cursor: pointer;
+}
+
+// 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+//    and `video` controls.
+// 2. Corrects inability to style clickable `input` types in iOS.
+// 3. Improves usability and consistency of cursor style between image-type
+//    `input` and others.
+button,
+html input[type="button"],//1
+input[type="reset"],
+input[type="submit"]{
+    -webkit-appearance: button;//2
+    cursor: pointer;//3
+}
+
+// Addresses `appearance` set to `searchfield` in Safari 5 and Chrome.
+input[type="search"] {
+    -webkit-appearance: textfield;
+}
+
+//Removes inner padding and search cancel button in Safari 5 and Chrome on OS X.
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration{
+    -webkit-appearance: none;
+}
+
+button::-moz-focus-inner{
+	border: none;
+}
+
+html{
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	font-weight: normal;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: inherit;
+	font-weight: normal;
+}
+
+//default list styles
+ul,ol{
+	list-style-position: inside;
+}
+ol{
+	list-style-type: decimal;
+}
+
+button{
+	background:none;
+	border:none;
+}
+
+//sets sub and sup without affecting line-height (gist.github.com/413930)
+sub,
+sup{
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup{
+    top: -0.5em;
+}
+sub{
+    bottom: -0.25em;
+}
+
+//Addresses styling not present in IE 8/9, Safari 5, and Chrome.
+abbr[title]{
+    border-bottom: 1px dotted;
+}
+
+//Addresses style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+b,
+strong{
+    font-weight: bold;
+}
+
+//Addresses styling not present in Safari 5 and Chrome.
+dfn {
+    font-style: italic;
+}
+
+//Improves readability of pre-formatted text in all browsers.
+pre,
+code,
+samp{
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+	font-family: monospace, serif;
+}
+
+//Sets consistent quote types.
+q{
+    quotes: "\201C" "\201D" "\2018" "\2019";
+}

@@ -1,0 +1,74 @@
+.cover-wrapper {
+	max-height: 100%;
+	position: relative;
+	overflow: hidden;
+
+	.no-touch & {
+		perspective: 4000px;
+	}
+
+	&::before {
+		/* never visible - this is used in jQuery to check the device type */
+		content: 'web';
+		display: none;
+	}
+
+	.touch &::before {
+		/* never visible - this is used in jQuery to check the device type */
+		content: 'mobile';
+	}
+}
+
+.cover-floating-background {
+	position: relative;
+
+	picture, img{
+		display: block;
+		width: 100%;
+		backface-visibility: hidden;
+		/* fixes a Firefox bug - images not correctly rendered*/
+		background-color: rgba(#FFF, .01);
+	}
+
+	picture:not(:first-child) {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	.no-touch & {
+		top: 0;
+		left: 0;
+		transform-style: preserve-3d;
+		transform: translateZ(0);
+
+		&.is-absolute {
+			position: absolute;
+		}
+
+		picture:first-child {
+			transform: translateZ(10px);
+		}
+
+		picture:nth-child(2) {
+			transform: translateZ(100px);
+		}
+
+		picture:nth-child(3) {
+			transform: translateZ(150px);
+		}
+		
+		picture:nth-child(4) {
+			transform: translateZ(400px);
+		}
+		
+		picture:nth-child(5) {
+			transform: translateZ(600px);
+		}
+	}
+
+	.no-touch.no-preserve-3d & {
+		/* we target browsers that don't support preserve-3d and show just a standard image - no effect visible */
+		position: relative;
+	}
+}
